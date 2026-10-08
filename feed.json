@@ -1,1 +1,64 @@
-{"newListings":[],"soldListings":[],"bids":[],"updatedAt":null,"sourceStatus":{"listings":"not_configured","sold":"not_configured"}}
+{
+  "newListings": [],
+  "soldListings": [],
+  "bids": [
+    {
+      "address": "Dagvattengatan 8C Hyllie",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3576735",
+      "image": "https://media.fastighetsbyran.se/50564992.png?Bredd=500",
+      "price": "1 445 000 kr"
+    },
+    {
+      "address": "Per Albin Hanssons väg 56A Blekingsborg",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3579582",
+      "image": "https://media.fastighetsbyran.se/50659649.jpg?Bredd=500",
+      "price": "1 850 000 kr"
+    },
+    {
+      "address": "Hakvingegatan 43 Bunkeflostrand",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3577074",
+      "image": "https://media.fastighetsbyran.se/50658030.jpg?Bredd=500",
+      "price": "6 995 000 kr"
+    },
+    {
+      "address": "Carl Flormansgatan 2 Bulltofta",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3578337",
+      "image": "https://media.fastighetsbyran.se/50559849.jpg?Bredd=500",
+      "price": "1 895 000 kr"
+    },
+    {
+      "address": "Vattenverksvägen 48B Kirseberg",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3561088",
+      "image": "https://media.fastighetsbyran.se/50659663.jpg?Bredd=500",
+      "price": "1 095 000 kr"
+    },
+    {
+      "address": "Roslins väg 18B Ribersborg",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3574978",
+      "image": "https://media.fastighetsbyran.se/50659613.jpg?Bredd=500",
+      "price": "3 395 000 kr"
+    },
+    {
+      "address": "Tessins väg 18B Ribersborg",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3048881",
+      "image": "https://media.fastighetsbyran.se/50427627.jpg?Bredd=500",
+      "price": "3 495 000 kr"
+    }
+  ],
+  "updatedAt": "2026-10-08T21:34:56+00:00",
+  "sourceStatus": {
+    "listings": "ok",
+    "sold": "error: 403 Client Error: Forbidden for url: https://www.hemnet.se/maklare/fastighetsbyran-malmo-169/salda"
+  },
+  "sources": {
+    "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
+    "sold": "https://www.hemnet.se/maklare/fastighetsbyran-malmo-169/salda"
+  }
+}
