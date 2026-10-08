@@ -1,3 +1,12 @@
 {
-  "soldListings": []
+  "soldListings": [
+    {
+      "address": "Exempelgatan 1, Malmö",
+      "area": "3 rum · 75 m²",
+      "price": "2 750 000 kr",
+      "date": "2026-10-08",
+      "image": "",
+      "url": "https://www.hemnet.se/salda/"
+    }
+  ]
 }
