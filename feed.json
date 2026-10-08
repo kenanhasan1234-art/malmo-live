@@ -1,6 +1,15 @@
 {
   "newListings": [],
-  "soldListings": [],
+  "soldListings": [
+    {
+      "address": "Exempelgatan 1, Malmö",
+      "area": "3 rum · 75 m²",
+      "price": "2 750 000 kr",
+      "date": "2026-10-08",
+      "image": "",
+      "url": "https://www.hemnet.se/salda/"
+    }
+  ],
   "bids": [
     {
       "address": "Dagvattengatan 8C Hyllie",
@@ -52,13 +61,13 @@
       "price": "3 495 000 kr"
     }
   ],
-  "updatedAt": "2026-10-08T21:44:50+00:00",
+  "updatedAt": "2026-10-08T22:00:37+00:00",
   "sourceStatus": {
-    "listings": "ok",
-    "sold": "error: 403 Client Error: Forbidden for url: https://www.hemnet.se/maklare/fastighetsbyran-malmo-169/salda"
+    "sold": "manual (1 entries)",
+    "listings": "ok"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
-    "sold": "https://www.hemnet.se/maklare/fastighetsbyran-malmo-169/salda"
+    "sold": "manual: sold-manual.json (Hemnet links)"
   }
 }
