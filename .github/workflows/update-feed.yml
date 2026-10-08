@@ -1,36 +1,44 @@
-MALMÖ LIVE – webbsida med automatisk bostadsfeed (teknisk grund)
 
-Filer:
-index.html                 Webbgränssnitt med säker Power BI-inbäddning.
-feed.json                  Publik JSON-feed som webbsidan hämtar var 15:e minut.
-collector/fetch.py         Server-side datainsamlare för publika objekt.
-collector/state.json       Historik över tidigare upptäckta objekt.
-.github/workflows/update-feed.yml  GitHub Actions var tredje timme.
-requirements.txt           Python-beroenden.
+name: Update Malmö Live property feed
 
-DRIFTSÄTTNING
-1. Kontrollera Fastighetsbyråns och Hemnets villkor samt att automatiserad
-   åtkomst och återpublicering av bilder/uppgifter är tillåten. Hämta annars
-   ett godkänt dataflöde/API och anpassa insamlaren.
-2. Lägg hela mappens innehåll i ett GitHub-repository.
-3. Aktivera GitHub Pages (Deploy from branch, main, /root) eller motsvarande
-   HTTPS-statisk webbhosting. Var medveten om att Pages normalt är offentligt.
-4. Tillåt GitHub Actions att skriva till repot, och kör workflow manuellt.
-5. Kontrollera Actions-loggen och feed.json. Den första körningen skapar en
-   baslinje och markerar INTE alla redan publicerade objekt som nyutlagda.
-6. Öppna webbplatsen och logga in på Microsoft för Power BI-rapporten.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */3 * * *"
 
-VIKTIGA BEGRÄNSNINGAR
-- Insamlaren är en fungerande teknisk grund, men livehämtning kunde inte
-  köras/verifieras i byggmiljön (utgående webbanslutning blockerad).
-- Webbplatsernas HTML-struktur kan förändras, och insamlaren kan behöva
-  anpassas. Vid fel bevaras tidigare verifierad feed; kontrollera loggar.
-- Schemaläggningen är var tredje timme och kan fördröjas av GitHub Actions.
-- Personliga Power BI-bokmärken är knutna till Microsoft-användaren.
-- Nyutlagda = först upptäckta sedan föregående lyckade hämtning; inte ett
-  verifierat publiceringsdatum.
-- Budgivning = publik status, inte interna bud eller senaste budbelopp.
-- Sålda = senast rapporterade försäljningar på Hemnet, inte alla affärer.
-- Bostadsobjekten omfattar hela Fastighetsbyrån Malmö, inte enbart 16 mäklare.
-- Bildåterpublicering kräver rättigheter. Tom bild är tillåten.
-- Historiska KPI-rankningar är INTE automatiskt kopplade till Power BI.
+permissions:
+  contents: write
+
+concurrency:
+  group: malmo-live-feed
+  cancel-in-progress: false
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collector
+        run: python collector/fetch.py
+
+      - name: Commit updated feed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add feed.json collector/state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Malmö Live property feed"
+            git push
+          fi
