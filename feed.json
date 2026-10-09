@@ -1,5 +1,46 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Svedalavägen 157 Toarp",
+      "area": "6 rum · 50 kvm",
+      "price": "3 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50735782.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2283648",
+      "status": "Till salu"
+    },
+    {
+      "address": "Roslins väg 18D Ribersborg",
+      "area": "2 rum · 57 kvm",
+      "price": "2 695 000 kr",
+      "image": "https://media.fastighetsbyran.se/50725707.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3581907",
+      "status": "Till salu"
+    },
+    {
+      "address": "Neptunigatan 71 Varvsstaden",
+      "area": "2 rum · 51 kvm",
+      "price": "2 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50727992.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3583533",
+      "status": "Till salu"
+    },
+    {
+      "address": "Spånehusvägen 56 B Östra Sorgenfri",
+      "area": "2 rum · 50 kvm",
+      "price": "1 450 000 kr",
+      "image": "https://media.fastighetsbyran.se/50763438.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3402316",
+      "status": "Till salu"
+    },
+    {
+      "address": "Blåsebergavägen 11 Limhamn",
+      "area": "1 rum · 37 kvm",
+      "price": "1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/50771130.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3572736",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -12,25 +53,11 @@
   ],
   "bids": [
     {
-      "address": "Dagvattengatan 8C Hyllie",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3576735",
-      "image": "https://media.fastighetsbyran.se/50564992.png?Bredd=500",
-      "price": "1 445 000 kr"
-    },
-    {
       "address": "Per Albin Hanssons väg 56A Blekingsborg",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3579582",
       "image": "https://media.fastighetsbyran.se/50659649.jpg?Bredd=500",
       "price": "1 850 000 kr"
-    },
-    {
-      "address": "Hakvingegatan 43 Bunkeflostrand",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3577074",
-      "image": "https://media.fastighetsbyran.se/50658030.jpg?Bredd=500",
-      "price": "6 995 000 kr"
     },
     {
       "address": "Carl Flormansgatan 2 Bulltofta",
@@ -47,13 +74,6 @@
       "price": "1 095 000 kr"
     },
     {
-      "address": "Roslins väg 18B Ribersborg",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3574978",
-      "image": "https://media.fastighetsbyran.se/50659613.jpg?Bredd=500",
-      "price": "3 395 000 kr"
-    },
-    {
       "address": "Tessins väg 18B Ribersborg",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3048881",
@@ -61,7 +81,7 @@
       "price": "3 495 000 kr"
     }
   ],
-  "updatedAt": "2026-10-09T06:10:27+00:00",
+  "updatedAt": "2026-10-09T13:18:57+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
