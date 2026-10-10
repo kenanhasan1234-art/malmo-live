@@ -1,11 +1,11 @@
 {
   "newListings": [
     {
-      "address": "Serenadgatan 8 Almvik",
-      "area": "3 rum · 80 kvm",
-      "price": "1 395 000 kr",
-      "image": "https://media.fastighetsbyran.se/50742523.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2759406",
+      "address": "Rasmusgatan 25A Södra Sofielund",
+      "area": "2 rum · 54.4 kvm",
+      "price": "895 000 kr",
+      "image": "https://media.fastighetsbyran.se/50799768.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2318503",
       "status": "Till salu"
     }
   ],
@@ -35,13 +35,6 @@
       "price": "1 895 000 kr"
     },
     {
-      "address": "Vattenverksvägen 48B Kirseberg",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3561088",
-      "image": "https://media.fastighetsbyran.se/50659663.jpg?Bredd=500",
-      "price": "1 095 000 kr"
-    },
-    {
       "address": "Tessins väg 18B Ribersborg",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3048881",
@@ -49,7 +42,7 @@
       "price": "3 495 000 kr"
     }
   ],
-  "updatedAt": "2026-10-10T09:51:53+00:00",
+  "updatedAt": "2026-10-10T17:21:05+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
