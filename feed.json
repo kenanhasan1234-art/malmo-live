@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Serenadgatan 8 Almvik",
+      "area": "3 rum · 80 kvm",
+      "price": "1 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/50742523.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2759406",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -40,7 +49,7 @@
       "price": "3 495 000 kr"
     }
   ],
-  "updatedAt": "2026-10-10T00:52:34+00:00",
+  "updatedAt": "2026-10-10T09:51:53+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
