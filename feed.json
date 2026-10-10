@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Bonebäcksvägen 10 Oxie Kyrkby",
-      "area": "6 rum · 129 kvm",
-      "price": "6 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/49516554.JPG?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2701714",
-      "status": "Till salu"
-    },
-    {
-      "address": "Östra farmvägen 40c Östra Sorgenfri",
-      "area": "2 rum · 60 kvm",
-      "price": "1 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/50785458.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3113829",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -57,7 +40,7 @@
       "price": "3 495 000 kr"
     }
   ],
-  "updatedAt": "2026-10-09T20:07:05+00:00",
+  "updatedAt": "2026-10-10T00:52:34+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
