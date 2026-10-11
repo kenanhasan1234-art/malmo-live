@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Blekingsborgsgatan 7 Malmö",
-      "area": "3 rum · 62.5 kvm",
-      "price": "1 350 000 kr",
-      "image": "https://media.fastighetsbyran.se/50785536.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3582049",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -20,6 +11,13 @@
     }
   ],
   "bids": [
+    {
+      "address": "Kronetorpsgatan 60A Segevång",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3582141",
+      "image": "https://media.fastighetsbyran.se/50728615.jpg?Bredd=500",
+      "price": "995 000 kr"
+    },
     {
       "address": "Henrik Smithsgatan 9 A S:t Knut",
       "status": "Budgivning pågår",
@@ -42,7 +40,7 @@
       "price": "3 495 000 kr"
     }
   ],
-  "updatedAt": "2026-10-11T12:52:00+00:00",
+  "updatedAt": "2026-10-11T19:34:15+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
