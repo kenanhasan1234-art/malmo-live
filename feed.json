@@ -1,35 +1,27 @@
 {
   "newListings": [
     {
-      "address": "Vindögats väg 3B Västra Klagstorp",
-      "area": "5 rum · 109 kvm",
-      "price": "3 895 000 kr",
-      "image": "https://media.fastighetsbyran.se/50684817.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3336167",
+      "address": "Carlsgatan 7F City",
+      "area": "3 rum · 78 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/50278297.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3275635",
       "status": "Till salu"
     },
     {
-      "address": "Idaborgsgatan 57 A Ellstorp",
-      "area": "2 rum · 43.5 kvm",
-      "price": "1 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/50371547.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3527202",
+      "address": "Fajansvägen 120 Oxie",
+      "area": "3 rum · 95 kvm",
+      "price": "1 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/50326521.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3106944",
       "status": "Till salu"
     },
     {
-      "address": "Kalkstensvägen 10 Kalkbrottet",
-      "area": "3 rum · 96 kvm",
-      "price": "4 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/50675198.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3582846",
-      "status": "Till salu"
-    },
-    {
-      "address": "Kronetorpsgatan 50B Segevång",
-      "area": "3 rum · 71.5 kvm",
-      "price": "950 000 kr",
-      "image": "https://media.fastighetsbyran.se/50771807.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3586865",
+      "address": "Sandbackegatan 5B Kirseberg",
+      "area": "2 rum · 52 kvm",
+      "price": "1 095 000 kr",
+      "image": "https://media.fastighetsbyran.se/49301545.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3233206",
       "status": "Till salu"
     }
   ],
@@ -80,7 +72,7 @@
       "price": "1 895 000 kr"
     }
   ],
-  "updatedAt": "2026-10-12T10:51:39+00:00",
+  "updatedAt": "2026-10-12T21:16:55+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
