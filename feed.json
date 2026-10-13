@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Lindeborgsgatan 333 Lindeborg",
+      "area": "4 rum · 117.5 kvm",
+      "price": "3 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/50819823.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3184585",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -47,7 +56,7 @@
       "price": "1 895 000 kr"
     }
   ],
-  "updatedAt": "2026-10-13T02:36:50+00:00",
+  "updatedAt": "2026-10-13T10:37:37+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
