@@ -1,30 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Carlsgatan 7F City",
-      "area": "3 rum · 78 kvm",
-      "price": "",
-      "image": "https://media.fastighetsbyran.se/50278297.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3275635",
-      "status": "Till salu"
-    },
-    {
-      "address": "Fajansvägen 120 Oxie",
-      "area": "3 rum · 95 kvm",
-      "price": "1 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/50326521.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3106944",
-      "status": "Till salu"
-    },
-    {
-      "address": "Sandbackegatan 5B Kirseberg",
-      "area": "2 rum · 52 kvm",
-      "price": "1 095 000 kr",
-      "image": "https://media.fastighetsbyran.se/49301545.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3233206",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -72,7 +47,7 @@
       "price": "1 895 000 kr"
     }
   ],
-  "updatedAt": "2026-10-12T21:16:55+00:00",
+  "updatedAt": "2026-10-13T02:36:50+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
