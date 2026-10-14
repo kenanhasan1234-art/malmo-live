@@ -14,6 +14,13 @@ OUT=ROOT/'feed.json'
 STATE=ROOT/'collector'/'state.json'
 MANUAL_SOLD=ROOT/'sold-manual.json'
 FB='https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382'
+
+FB_EXTRA = [
+    'https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad',
+    'https://www.fastighetsbyran.com/sv/sverige/till-salu/villa/skane-lan/malmo-stad/',
+    'https://www.fastighetsbyran.com/sv/sverige/till-salu/hus/skane-lan/malmo-stad/',
+]
+
 HN='https://www.hemnet.se/maklare/fastighetsbyran-malmo-169/salda'
 HEADERS={'User-Agent':'MalmoLiveDashboard/1.0 (public information; contact site owner for permission)'}
 
@@ -98,7 +105,21 @@ def main():
     result['soldListings']=clean[:12]
     result['sourceStatus']['sold']='manual ('+str(len(clean))+' entries)'
     try:
-        listings=get_fb(fetch(FB))
+        
+listings = []
+seen_urls = set()
+
+for url in [FB] + FB_EXTRA:
+    try:
+        for property_item in get_fb(fetch(url)):
+            property_url = property_item['url']
+
+            if property_url not in seen_urls:
+                seen_urls.add(property_url)
+                listings.append(property_item)
+    except Exception as exc:
+        print('Source failed:', url, exc, file=sys.stderr)
+
         if not listings:raise ValueError('No valid listing cards parsed; source markup may have changed')
         successes+=1
         known=set(state.get('known',[]))
