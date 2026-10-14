@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Södra Gulsparvsgatan 42 Söderkulla",
-      "area": "3 rum · 80.5 kvm",
-      "price": "1 695 000 kr",
-      "image": "https://media.fastighetsbyran.se/50825664.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3589773",
-      "status": "Till salu"
-    },
-    {
-      "address": "Kastanjegatan 12A Hindby",
-      "area": "4 rum · 12 kvm",
-      "price": "4 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/50426729.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3558360",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -57,7 +40,7 @@
       "price": "1 895 000 kr"
     }
   ],
-  "updatedAt": "2026-10-14T14:31:41+00:00",
+  "updatedAt": "2026-10-14T19:25:08+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok"
