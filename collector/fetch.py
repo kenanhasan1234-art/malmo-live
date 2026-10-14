@@ -104,36 +104,117 @@ def main():
         clean.append({k:str(item.get(k,'')).strip() for k in ('address','area','price','date','image','url')})
     result['soldListings']=clean[:12]
     result['sourceStatus']['sold']='manual ('+str(len(clean))+' entries)'
+   
     try:
-        
-listings = []
-seen_urls = set()
+        listings = []
+        seen_urls = set()
+        successful_pages = 0
 
-for url in [FB] + FB_EXTRA:
-    try:
-        for property_item in get_fb(fetch(url)):
-            property_url = property_item['url']
+        for url in [FB] + FB_EXTRA:
+            try:
+                soup = fetch(url)
+                properties = get_fb(soup)
+                successful_pages += 1
 
-            if property_url not in seen_urls:
-                seen_urls.add(property_url)
-                listings.append(property_item)
+                added = 0
+                bids_found = 0
+
+                for property_item in properties:
+                    property_url = property_item['url']
+
+                    if property_url in seen_urls:
+                        continue
+
+                    seen_urls.add(property_url)
+                    listings.append(property_item)
+                    added += 1
+
+                    if property_item['status'] == 'Budgivning pågår':
+                        bids_found += 1
+
+                print(
+                    'SOURCE:',
+                    url,
+                    '| parsed:', len(properties),
+                    '| unique added:', added,
+                    '| bids added:', bids_found
+                )
+
+            except Exception as exc:
+                print(
+                    'Source failed:',
+                    url,
+                    str(exc),
+                    file=sys.stderr
+                )
+
+        if not listings:
+            raise ValueError(
+                'No valid listing cards parsed'
+            )
+
+        successes += 1
+
+        known = set(state.get('known', []))
+        is_first = not state.get('initialized', False)
+
+        fresh = [
+            p for p in listings
+            if p['url'] not in known
+        ]
+
+        result['newListings'] = (
+            [] if is_first else fresh[:12]
+        )
+
+        result['bids'] = [
+            {
+                'address': p['address'],
+                'status': 'Budgivning pågår',
+                'url': p['url'],
+                'image': p['image'],
+                'price': p['price']
+            }
+            for p in listings
+            if p['status'] == 'Budgivning pågår'
+        ][:12]
+
+        result['sourceStatus']['listings'] = (
+            'ok; pages=' + str(successful_pages)
+            + '; properties=' + str(len(listings))
+            + '; bids=' + str(len(result['bids']))
+        )
+
+        state = {
+            'known': list(
+                known | {p['url'] for p in listings}
+            )[-5000:],
+            'initialized': True
+        }
+
+        STATE.write_text(
+            json.dumps(
+                state,
+                ensure_ascii=False,
+                indent=2
+            ),
+            encoding='utf-8'
+        )
+
+        print(
+            'TOTAL:',
+            len(listings),
+            'unique properties;',
+            len(result['bids']),
+            'active bids'
+        )
+
     except Exception as exc:
-        print('Source failed:', url, exc, file=sys.stderr)
+        result['sourceStatus']['listings'] = (
+            'error: ' + str(exc)[:180]
+        )
+        print('Listings:', exc, file=sys.stderr)
 
-        if not listings:raise ValueError('No valid listing cards parsed; source markup may have changed')
-        successes+=1
-        known=set(state.get('known',[]))
-        is_first=not state.get('initialized',False)
-        fresh=[p for p in listings if p['url'] not in known]
-        # On first run do not falsely call all properties newly listed.
-        result['newListings']=[] if is_first else fresh[:12]
-        result['bids']=[{'address':p['address'],'status':'Budgivning pågår','url':p['url'],'image':p['image'],'price':p['price']} for p in listings if p['status']=='Budgivning pågår'][:12]
-        result['sourceStatus']['listings']='ok'
-        state={'known':list((known | {p['url'] for p in listings}))[-5000:],'initialized':True}
-        STATE.write_text(json.dumps(state,ensure_ascii=False,indent=2),encoding='utf-8')
-    except Exception as exc:
-        result['sourceStatus']['listings']='error: '+str(exc)[:180]
-        print('Listings:',exc,file=sys.stderr)
     # Never overwrite valid historical feed when both upstreams fail.
     if not successes:
         print('No successful sources: preserving previous feed',file=sys.stderr)
