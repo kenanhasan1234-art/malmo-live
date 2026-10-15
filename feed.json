@@ -1,19 +1,43 @@
 {
   "newListings": [
     {
-      "address": "Östra Kristinelundsvägen 12A Slottsstaden",
-      "area": "2 rum · 38 kvm",
-      "price": "1 895 000 kr",
-      "image": "https://media.fastighetsbyran.se/49373255.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3466516",
+      "address": "Elsa Anderssons gata 15D Bulltofta",
+      "area": "3 rum · 85 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/50843518.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3175412",
       "status": "Till salu"
     },
     {
-      "address": "Kollegiegatan 3A Nydala",
-      "area": "3 rum · 75.5 kvm",
+      "address": "Kiviksgatan 8C Östra Sorgenfri",
+      "area": "2.5 rum · 62 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/50658181.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3542683",
+      "status": "Till salu"
+    },
+    {
+      "address": "Korsörvägen 22A Dammfri",
+      "area": "1.5 rum · 3.5 kvm",
       "price": "1 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50684839.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3555817",
+      "image": "https://media.fastighetsbyran.se/44723360.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3159398",
+      "status": "Till salu"
+    },
+    {
+      "address": "Trelleborgsgatan 20B Folkets Park",
+      "area": "3 rum · 72 kvm",
+      "price": "1 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/50842838.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3587984",
+      "status": "Till salu"
+    },
+    {
+      "address": "Västanväg 59a Limhamn",
+      "area": "2 rum · 54.5 kvm",
+      "price": "2 095 000 kr",
+      "image": "https://media.fastighetsbyran.se/50786735.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3575783",
       "status": "Till salu"
     }
   ],
@@ -28,6 +52,13 @@
     }
   ],
   "bids": [
+    {
+      "address": "Kronetorpsgatan 50B Segevång",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3586865",
+      "image": "https://media.fastighetsbyran.se/50771807.jpg?Bredd=500",
+      "price": "950 000 kr"
+    },
     {
       "address": "Dockgatan 27 Dockan",
       "status": "Budgivning pågår",
@@ -64,20 +95,6 @@
       "price": "3 995 000 kr"
     },
     {
-      "address": "Carl Flormansgatan 2 Bulltofta",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3578337",
-      "image": "https://media.fastighetsbyran.se/50559849.jpg?Bredd=500",
-      "price": "1 895 000 kr"
-    },
-    {
-      "address": "Örnehuvuds väg 23 Gamla Rosengård",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3030147",
-      "image": "https://media.fastighetsbyran.se/50293549.jpg?Bredd=500",
-      "price": "5 195 000 kr"
-    },
-    {
       "address": "Clematisgatan 8 Gamla Rosengård",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -85,10 +102,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-15T11:31:18+00:00",
+  "updatedAt": "2026-10-15T17:02:26+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=8"
+    "listings": "ok; pages=4; properties=140; bids=7"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
