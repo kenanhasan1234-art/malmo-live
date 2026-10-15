@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Östra Kristinelundsvägen 12A Slottsstaden",
+      "area": "2 rum · 38 kvm",
+      "price": "1 895 000 kr",
+      "image": "https://media.fastighetsbyran.se/49373255.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3466516",
+      "status": "Till salu"
+    },
+    {
+      "address": "Kollegiegatan 3A Nydala",
+      "area": "3 rum · 75.5 kvm",
+      "price": "1 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50684839.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3555817",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -11,6 +28,13 @@
     }
   ],
   "bids": [
+    {
+      "address": "Dockgatan 27 Dockan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3481882",
+      "image": "https://media.fastighetsbyran.se/50713769.jpg?Bredd=500",
+      "price": "3 695 000 kr"
+    },
     {
       "address": "Ribevägen 13B Dammfri",
       "status": "Budgivning pågår",
@@ -61,10 +85,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-15T04:40:53+00:00",
+  "updatedAt": "2026-10-15T11:31:18+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=7"
+    "listings": "ok; pages=4; properties=140; bids=8"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
