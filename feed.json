@@ -1,102 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Örnehuvuds väg 23 Gamla Rosengård",
-      "area": "6 rum · 80 kvm",
-      "price": "5 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/50293549.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3030147",
-      "status": "Budgivning pågår"
-    },
-    {
-      "address": "Käglingevägen 103 Käglinge",
-      "area": "3 rum · 0 kvm",
-      "price": "",
-      "image": "https://media.fastighetsbyran.se/50064569.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=1750798",
-      "status": "Till salu"
-    },
-    {
-      "address": "Clematisgatan 8 Gamla Rosengård",
-      "area": "7 rum · 82 kvm",
-      "price": "5 999 000 kr",
-      "image": "https://media.fastighetsbyran.se/46138657.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
-      "status": "Budgivning pågår"
-    },
-    {
-      "address": "Rosentorpsvägen 162 Oxie",
-      "area": "6 rum · 56 kvm",
-      "price": "7 695 000 kr",
-      "image": "https://media.fastighetsbyran.se/47249438.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2763537",
-      "status": "Till salu"
-    },
-    {
-      "address": "Krombyvägen 81 Käglinge",
-      "area": "8 rum · 60 kvm",
-      "price": "6 695 000 kr",
-      "image": "https://media.fastighetsbyran.se/50166301.JPG?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3524487",
-      "status": "Till salu"
-    },
-    {
-      "address": "Ättehögsvägen 17 Bunkeflo/skumparp",
-      "area": "5 rum · 250 kvm",
-      "price": "9 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50085607.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3503098",
-      "status": "Till salu"
-    },
-    {
-      "address": "Droskvägen 3 Klagshamn",
-      "area": "6 rum · 89.3 kvm",
-      "price": "10 500 000 kr",
-      "image": "https://media.fastighetsbyran.se/48952706.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3460063",
-      "status": "Till salu"
-    },
-    {
-      "address": "Evagatan 10 Eriksfält",
-      "area": "3 rum · 50 kvm",
-      "price": "4 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/49717940.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3467774",
-      "status": "Till salu"
-    },
-    {
-      "address": "Medhällagatan 1 Riseberga",
-      "area": "6 rum · 14 kvm",
-      "price": "9 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/49518681.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3117498",
-      "status": "Till salu"
-    },
-    {
-      "address": "Signe Löfdahls väg 20 Klagshamn",
-      "area": "6 rum · 13 kvm",
-      "price": "10 500 000 kr",
-      "image": "https://media.fastighetsbyran.se/50077343.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3247812",
-      "status": "Till salu"
-    },
-    {
-      "address": "Syster Astrids gata 24 Riseberga",
-      "area": "5 rum · 12 kvm",
-      "price": "7 500 000 kr",
-      "image": "https://media.fastighetsbyran.se/49163310.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3252713",
-      "status": "Till salu"
-    },
-    {
-      "address": "Särslövsvägen 70 Husie",
-      "area": "6 rum · 0 kvm",
-      "price": "6 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/46836395.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=1951837",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -158,7 +61,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-14T23:55:36+00:00",
+  "updatedAt": "2026-10-15T04:40:53+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=7"
