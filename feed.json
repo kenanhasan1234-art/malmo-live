@@ -1,5 +1,46 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Bragegatan 1A Dalaplan",
+      "area": "1.5 rum · 41.8 kvm",
+      "price": "1 250 000 kr",
+      "image": "https://media.fastighetsbyran.se/49352835.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3448364",
+      "status": "Till salu"
+    },
+    {
+      "address": "Glasbrukskajen 2a Limhamns Sjöstad",
+      "area": "3 rum · 78 kvm",
+      "price": "3 595 000 kr",
+      "image": "https://media.fastighetsbyran.se/50812210.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3574979",
+      "status": "Till salu"
+    },
+    {
+      "address": "Lönngatan 58 C Malmö",
+      "area": "2 rum · 48.5 kvm",
+      "price": "895 000 kr",
+      "image": "https://media.fastighetsbyran.se/50811454.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3587314",
+      "status": "Till salu"
+    },
+    {
+      "address": "Kungsgatan 40 Rörsjöstaden",
+      "area": "1 rum · 33 kvm",
+      "price": "1 695 000 kr",
+      "image": "https://media.fastighetsbyran.se/50827312.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2740779",
+      "status": "Till salu"
+    },
+    {
+      "address": "Jägersrovägen 8C Västra Kattarp",
+      "area": "2 rum · 50.5 kvm",
+      "price": "895 000 kr",
+      "image": "https://media.fastighetsbyran.se/50521609.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3373293",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -40,13 +81,6 @@
       "price": "995 000 kr"
     },
     {
-      "address": "Von Lingens väg 39 Rosengård/apelgården",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3453105",
-      "image": "https://media.fastighetsbyran.se/50725603.jpg?Bredd=500",
-      "price": "850 000 kr"
-    },
-    {
       "address": "Henrik Smithsgatan 9 A S:t Knut",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2726846",
@@ -61,10 +95,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-16T04:33:33+00:00",
+  "updatedAt": "2026-10-16T11:26:04+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=7"
+    "listings": "ok; pages=4; properties=140; bids=6"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
