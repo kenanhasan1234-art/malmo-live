@@ -1,62 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Nålgränd 4 Hyllie",
-      "area": "3 rum · 66 kvm",
-      "price": "2 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50854476.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3232154",
-      "status": "Till salu"
-    },
-    {
-      "address": "Baltzarsgatan 41 B City",
-      "area": "3 rum · 84 kvm",
-      "price": "4 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50798930.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3203766",
-      "status": "Till salu"
-    },
-    {
-      "address": "Murtegelvägen 23 Oxie",
-      "area": "5 rum · 125 kvm",
-      "price": "2 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50842893.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2551818",
-      "status": "Till salu"
-    },
-    {
-      "address": "Norra Skolgatan 13 Triangeln",
-      "area": "2 rum · 48 kvm",
-      "price": "1 895 000 kr",
-      "image": "https://media.fastighetsbyran.se/50798923.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3587643",
-      "status": "Till salu"
-    },
-    {
-      "address": "Rådmansgatan 23F Triangeln",
-      "area": "2 rum · 41 kvm",
-      "price": "1 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50684911.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3306391",
-      "status": "Till salu"
-    },
-    {
-      "address": "Harvgränd 4, 1004 Elinelund / Elinegård",
-      "area": "3 rum · 77 kvm",
-      "price": "3 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/50730387.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3557526",
-      "status": "Till salu"
-    },
-    {
-      "address": "Sallerupsvägen 32F Ellstorp",
-      "area": "2 rum · 48 kvm",
-      "price": "1 350 000 kr",
-      "image": "https://media.fastighetsbyran.se/50681079.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3574224",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -97,7 +40,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-16T16:40:38+00:00",
+  "updatedAt": "2026-10-16T21:10:04+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=139; bids=4"
