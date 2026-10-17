@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Lönngatan 56A Lönngården",
-      "area": "2.5 rum · 49 kvm",
-      "price": "1 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/50713761.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3584162",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -42,7 +33,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-17T15:36:41+00:00",
+  "updatedAt": "2026-10-17T20:37:33+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=139; bids=3"
