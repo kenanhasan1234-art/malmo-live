@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Bodekullsgatan 37a Östra Sorgenfri",
-      "area": "2 rum · 59.2 kvm",
-      "price": "1 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50825699.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3409873",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -40,12 +31,19 @@
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
       "image": "https://media.fastighetsbyran.se/46138657.jpg?Bredd=500",
       "price": "5 999 000 kr"
+    },
+    {
+      "address": "Bonebäcksvägen 4 Oxie",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3458485",
+      "image": "https://media.fastighetsbyran.se/49183768.jpg?Bredd=500",
+      "price": "4 995 000 kr"
     }
   ],
-  "updatedAt": "2026-10-18T11:07:03+00:00",
+  "updatedAt": "2026-10-18T15:53:25+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=3"
+    "listings": "ok; pages=4; properties=139; bids=4"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
