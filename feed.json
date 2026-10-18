@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Buxusstigen 5 Virentofta",
+      "area": "4 rum · 0 kvm",
+      "price": "3 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/50818497.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3583032",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -40,7 +49,7 @@
       "price": "4 995 000 kr"
     }
   ],
-  "updatedAt": "2026-10-18T15:53:25+00:00",
+  "updatedAt": "2026-10-18T20:45:11+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=139; bids=4"
