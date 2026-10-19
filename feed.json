@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Ronnebygatan 1 C S:t Knut",
+      "area": "4 rum · 81 kvm",
+      "price": "3 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50841751.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3555931",
+      "status": "Till salu"
+    },
+    {
+      "address": "Grönalundsgatan 11 C Limhamn",
+      "area": "2 rum · 60 kvm",
+      "price": "1 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/49357608.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3046219",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -17,6 +34,13 @@
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3481882",
       "image": "https://media.fastighetsbyran.se/50713769.jpg?Bredd=500",
       "price": "3 695 000 kr"
+    },
+    {
+      "address": "Soprangatan 16 Almvik",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2525507",
+      "image": "https://media.fastighetsbyran.se/50640203.png?Bredd=500",
+      "price": "1 750 000 kr"
     },
     {
       "address": "Kronetorpsgatan 60A Segevång",
@@ -40,10 +64,10 @@
       "price": "4 995 000 kr"
     }
   ],
-  "updatedAt": "2026-10-19T04:42:23+00:00",
+  "updatedAt": "2026-10-19T13:18:08+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=4"
+    "listings": "ok; pages=4; properties=137; bids=5"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
