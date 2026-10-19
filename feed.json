@@ -1,19 +1,59 @@
 {
   "newListings": [
     {
-      "address": "Ronnebygatan 1 C S:t Knut",
-      "area": "4 rum · 81 kvm",
-      "price": "3 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50841751.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3555931",
+      "address": "Trelleborgsgatan 1A Folkets Park",
+      "area": "1 rum · 37 kvm",
+      "price": "1 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/50842819.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2600400",
       "status": "Till salu"
     },
     {
-      "address": "Grönalundsgatan 11 C Limhamn",
-      "area": "2 rum · 60 kvm",
-      "price": "1 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/49357608.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3046219",
+      "address": "Kulladalsgatan 28a Kulladal",
+      "area": "3 rum · 80.5 kvm",
+      "price": "1 895 000 kr",
+      "image": "https://media.fastighetsbyran.se/50797951.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3585103",
+      "status": "Till salu"
+    },
+    {
+      "address": "Jägersrovägen 7A Västra Kattarp",
+      "area": "2 rum · 57 kvm",
+      "price": "950 000 kr",
+      "image": "https://media.fastighetsbyran.se/46327687.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3291597",
+      "status": "Till salu"
+    },
+    {
+      "address": "Tornfalksgatan 17 Söderkulla",
+      "area": "2 rum · 43 kvm",
+      "price": "1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/45016622.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3207446",
+      "status": "Till salu"
+    },
+    {
+      "address": "Rödkullastigen 11a Almhög",
+      "area": "3 rum · 80 kvm",
+      "price": "1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/48472280.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3405465",
+      "status": "Till salu"
+    },
+    {
+      "address": "Blåbärsgatan 5 Videdal",
+      "area": "7 rum · 5 kvm",
+      "price": "5 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50645184.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3572813",
+      "status": "Till salu"
+    },
+    {
+      "address": "Ellstorpsgatan 4 G Ellstorp",
+      "area": "2 rum · 47 kvm",
+      "price": "995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50875979.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3399297",
       "status": "Till salu"
     }
   ],
@@ -55,19 +95,12 @@
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
       "image": "https://media.fastighetsbyran.se/46138657.jpg?Bredd=500",
       "price": "5 999 000 kr"
-    },
-    {
-      "address": "Bonebäcksvägen 4 Oxie",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3458485",
-      "image": "https://media.fastighetsbyran.se/49183768.jpg?Bredd=500",
-      "price": "4 995 000 kr"
     }
   ],
-  "updatedAt": "2026-10-19T13:18:08+00:00",
+  "updatedAt": "2026-10-19T20:36:04+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=137; bids=5"
+    "listings": "ok; pages=4; properties=136; bids=4"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
