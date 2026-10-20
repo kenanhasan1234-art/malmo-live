@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Limhamnsvägen 134 Limhamn",
+      "area": "3 rum · 75 kvm",
+      "price": "3 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50866035.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3590000",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -40,7 +49,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-20T00:21:26+00:00",
+  "updatedAt": "2026-10-20T08:33:54+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=136; bids=4"
