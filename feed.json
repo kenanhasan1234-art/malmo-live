@@ -1,59 +1,11 @@
 {
   "newListings": [
     {
-      "address": "Packhusgatan 27 Limhamns Sjöstad",
-      "area": "3 rum · 86.5 kvm",
-      "price": "3 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/50468110.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3092129",
-      "status": "Till salu"
-    },
-    {
-      "address": "Tornfalksgatan 13 Söderkulla",
-      "area": "3 rum · 86 kvm",
+      "address": "Mellersta Tennisgränd 12 Hyllie",
+      "area": "2 rum · 54 kvm",
       "price": "1 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50881951.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2800438",
-      "status": "Till salu"
-    },
-    {
-      "address": "Kvartettgatan 38 Almvik",
-      "area": "4 rum · 97 kvm",
-      "price": "1 695 000 kr",
-      "image": "https://media.fastighetsbyran.se/50878028.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3576232",
-      "status": "Till salu"
-    },
-    {
-      "address": "Bertrandsgatan 2E Rörsjöstaden",
-      "area": "3 rum · 87 kvm",
-      "price": "3 395 000 kr",
-      "image": "https://media.fastighetsbyran.se/50197810.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3256778",
-      "status": "Till salu"
-    },
-    {
-      "address": "Serenadgatan 9 Högaholm",
-      "area": "3 rum · 80 kvm",
-      "price": "1 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/50854475.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3250384",
-      "status": "Till salu"
-    },
-    {
-      "address": "Serenadgatan 72 Högaholm",
-      "area": "2 rum · 64 kvm",
-      "price": "1 095 000 kr",
-      "image": "https://media.fastighetsbyran.se/50675158.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3581961",
-      "status": "Till salu"
-    },
-    {
-      "address": "Serenadgatan 62 Högaholm",
-      "area": "3 rum · 81.5 kvm",
-      "price": "1 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/44461468.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3155762",
+      "image": "https://media.fastighetsbyran.se/50326650.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2477279",
       "status": "Till salu"
     }
   ],
@@ -90,7 +42,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-20T14:19:22+00:00",
+  "updatedAt": "2026-10-20T19:17:44+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=136; bids=3"
