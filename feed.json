@@ -1,19 +1,19 @@
 {
   "newListings": [
     {
-      "address": "Västra Rönneholmsvägen 73 A Slottsstaden",
-      "area": "1 rum · 38 kvm",
-      "price": "1 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/50006010.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3526030",
+      "address": "Blåbärsgränd 4 Ulricedal",
+      "area": "5 rum · 38 kvm",
+      "price": "3 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/49224789.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3452546",
       "status": "Till salu"
     },
     {
-      "address": "Sivs gränd 3A Hyllie",
-      "area": "5 rum · 112 kvm",
-      "price": "5 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50501199.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3366335",
+      "address": "Husargatan 4 Drottningtorget",
+      "area": "3 rum · 84 kvm",
+      "price": "4 695 000 kr",
+      "image": "https://media.fastighetsbyran.se/50798913.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3462056",
       "status": "Till salu"
     }
   ],
@@ -36,20 +36,6 @@
       "price": "950 000 kr"
     },
     {
-      "address": "Dockgatan 27 Dockan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3481882",
-      "image": "https://media.fastighetsbyran.se/50713769.jpg?Bredd=500",
-      "price": "3 695 000 kr"
-    },
-    {
-      "address": "Kronetorpsgatan 60A Segevång",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3582141",
-      "image": "https://media.fastighetsbyran.se/50728615.jpg?Bredd=500",
-      "price": "995 000 kr"
-    },
-    {
       "address": "Clematisgatan 8 Gamla Rosengård",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -57,10 +43,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-21T11:50:50+00:00",
+  "updatedAt": "2026-10-21T17:13:53+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=136; bids=4"
+    "listings": "ok; pages=4; properties=136; bids=2"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
