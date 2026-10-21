@@ -1,19 +1,11 @@
 {
   "newListings": [
     {
-      "address": "Blåbärsgränd 4 Ulricedal",
-      "area": "5 rum · 38 kvm",
-      "price": "3 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/49224789.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3452546",
-      "status": "Till salu"
-    },
-    {
-      "address": "Husargatan 4 Drottningtorget",
-      "area": "3 rum · 84 kvm",
-      "price": "4 695 000 kr",
-      "image": "https://media.fastighetsbyran.se/50798913.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3462056",
+      "address": "Skvadronsgatan 22a Slottsstaden",
+      "area": "3 rum · 69 kvm",
+      "price": "2 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50902983.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3477625",
       "status": "Till salu"
     }
   ],
@@ -43,7 +35,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-21T17:13:53+00:00",
+  "updatedAt": "2026-10-21T21:43:52+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=136; bids=2"
