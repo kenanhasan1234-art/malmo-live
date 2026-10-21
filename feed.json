@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Västra Rönneholmsvägen 73 A Slottsstaden",
+      "area": "1 rum · 38 kvm",
+      "price": "1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/50006010.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3526030",
+      "status": "Till salu"
+    },
+    {
+      "address": "Sivs gränd 3A Hyllie",
+      "area": "5 rum · 112 kvm",
+      "price": "5 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50501199.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3366335",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -11,6 +28,13 @@
     }
   ],
   "bids": [
+    {
+      "address": "Kronetorpsgatan 50B Segevång",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3586865",
+      "image": "https://media.fastighetsbyran.se/50771807.jpg?Bredd=500",
+      "price": "950 000 kr"
+    },
     {
       "address": "Dockgatan 27 Dockan",
       "status": "Budgivning pågår",
@@ -33,10 +57,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-21T04:49:50+00:00",
+  "updatedAt": "2026-10-21T11:50:50+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=136; bids=3"
+    "listings": "ok; pages=4; properties=136; bids=4"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
