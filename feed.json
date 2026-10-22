@@ -1,11 +1,11 @@
 {
   "newListings": [
     {
-      "address": "Irisgatan 14 Kulladal",
-      "area": "5 rum · 53 kvm",
-      "price": "5 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50913865.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3592846",
+      "address": "Stadiongatan 55E Lorensborg",
+      "area": "2 rum · 53 kvm",
+      "price": "1 645 000 kr",
+      "image": "https://media.fastighetsbyran.se/50890326.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3486607",
       "status": "Till salu"
     }
   ],
@@ -21,7 +21,7 @@
   ],
   "bids": [
     {
-      "address": "Trelleborgsgatan 20B Folkets Park",
+      "address": "Trelleborgsgatan 20B Nobeltorget",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3587984",
       "image": "https://media.fastighetsbyran.se/50842838.jpg?Bredd=500",
@@ -42,7 +42,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-22T17:11:46+00:00",
+  "updatedAt": "2026-10-22T21:36:57+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=137; bids=3"
