@@ -1,5 +1,54 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Ingenjörsgatan 4 Södertorp",
+      "area": "4 rum · 103.5 kvm",
+      "price": "2 600 000 kr",
+      "image": "https://media.fastighetsbyran.se/50865261.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593917",
+      "status": "Till salu"
+    },
+    {
+      "address": "Östra Varvsgatan 3BB Dockan",
+      "area": "2 rum · 51 kvm",
+      "price": "2 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/50811594.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3586070",
+      "status": "Till salu"
+    },
+    {
+      "address": "Sergels väg 5a Ribersborg",
+      "area": "2 rum · 53 kvm",
+      "price": "2 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50827316.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3079310",
+      "status": "Till salu"
+    },
+    {
+      "address": "Vindögats väg 12D Västra Klagstorp",
+      "area": "5 rum · 109 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/50826007.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3488403",
+      "status": "Till salu"
+    },
+    {
+      "address": "Högatan 7 Elinelund / Elinegård",
+      "area": "2 rum · 51 kvm",
+      "price": "1 975 000 kr",
+      "image": "https://media.fastighetsbyran.se/50872419.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3399043",
+      "status": "Till salu"
+    },
+    {
+      "address": "Balladgatan 35 Högaholm",
+      "area": "3 rum · 81.5 kvm",
+      "price": "1 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50878040.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3055211",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -26,10 +75,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-22T04:48:35+00:00",
+  "updatedAt": "2026-10-22T11:54:17+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=136; bids=2"
+    "listings": "ok; pages=4; properties=137; bids=2"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
