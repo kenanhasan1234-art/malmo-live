@@ -1,5 +1,62 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Myrtengatan 3 Västra Kattarp",
+      "area": "4 rum · 13 kvm",
+      "price": "4 300 000 kr",
+      "image": "https://media.fastighetsbyran.se/50291415.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2553077",
+      "status": "Till salu"
+    },
+    {
+      "address": "Lönngatan 56C Lönngården",
+      "area": "2 rum · 42 kvm",
+      "price": "995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50786718.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3590308",
+      "status": "Till salu"
+    },
+    {
+      "address": "Karlskronaplan 5 U2 Västra Sorgenfri",
+      "area": "3 rum · 73 kvm",
+      "price": "2 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/50110093.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3486353",
+      "status": "Till salu"
+    },
+    {
+      "address": "Vetefältsgatan 17A Elinelund / Elinegård",
+      "area": "4 rum · 90 kvm",
+      "price": "3 595 000 kr",
+      "image": "https://media.fastighetsbyran.se/50920632.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3446087",
+      "status": "Till salu"
+    },
+    {
+      "address": "Kollegiegatan 9B Nydala",
+      "area": "1 rum · 41.5 kvm",
+      "price": "795 000 kr",
+      "image": "https://media.fastighetsbyran.se/50854731.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3574971",
+      "status": "Till salu"
+    },
+    {
+      "address": "Rödkullastigen 7A Almhög",
+      "area": "2 rum · 54.5 kvm",
+      "price": "895 000 kr",
+      "image": "https://media.fastighetsbyran.se/50311385.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3276940",
+      "status": "Till salu"
+    },
+    {
+      "address": "Erikslustvägen 42H Erikslust",
+      "area": "1 rum · 27 kvm",
+      "price": "1 375 000 kr",
+      "image": "https://media.fastighetsbyran.se/50878046.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2932978",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -33,10 +90,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-23T04:51:06+00:00",
+  "updatedAt": "2026-10-23T11:40:44+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=137; bids=3"
+    "listings": "ok; pages=4; properties=138; bids=3"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
