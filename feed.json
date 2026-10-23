@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Helenetorpsgatan 8 Gullvik",
-      "area": "3 rum · 93 kvm",
-      "price": "2 595 000 kr",
-      "image": "https://media.fastighetsbyran.se/50903281.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2747715",
-      "status": "Till salu"
-    },
-    {
-      "address": "Carl Herslowsgatan 9C Hästhagen",
-      "area": "2 rum · 54 kvm",
-      "price": "2 895 000 kr",
-      "image": "https://media.fastighetsbyran.se/50725980.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3583253",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -43,7 +26,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-23T17:08:45+00:00",
+  "updatedAt": "2026-10-23T21:25:28+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=138; bids=2"
