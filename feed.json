@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Ellstorpsgatan 4 O Ellstorp",
+      "area": "2 rum · 47 kvm",
+      "price": "1 095 000 kr",
+      "image": "https://media.fastighetsbyran.se/50903272.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2662394",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -26,7 +35,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-24T04:38:15+00:00",
+  "updatedAt": "2026-10-24T11:02:39+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=138; bids=2"
