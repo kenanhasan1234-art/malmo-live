@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Lovartsgatan 11A Dockan",
-      "area": "3 rum · 78 kvm",
-      "price": "3 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50160241.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3527571",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -49,7 +40,7 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-25T16:21:18+00:00",
+  "updatedAt": "2026-10-25T20:52:20+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=139; bids=4"
