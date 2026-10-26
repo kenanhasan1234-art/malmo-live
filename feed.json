@@ -1,51 +1,51 @@
 {
   "newListings": [
     {
-      "address": "Von Lingens väg 13 Rosengård/apelgården",
-      "area": "3 rum · 79.5 kvm",
+      "address": "Nobelvägen 117G Östra Sorgenfri",
+      "area": "3 rum · 80 kvm",
+      "price": "2 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50812176.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2294652",
+      "status": "Till salu"
+    },
+    {
+      "address": "Värnhemsgatan 15 Värnhem",
+      "area": "2 rum · 51 kvm",
+      "price": "1 850 000 kr",
+      "image": "https://media.fastighetsbyran.se/50923743.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3588111",
+      "status": "Till salu"
+    },
+    {
+      "address": "Dammfrivägen 48A Solbacken",
+      "area": "3 rum · 75.5 kvm",
+      "price": "2 895 000 kr",
+      "image": "https://media.fastighetsbyran.se/50935784.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3527025",
+      "status": "Till salu"
+    },
+    {
+      "address": "Kronetorpsgatan 46 d Segevång",
+      "area": "2 rum · 55.5 kvm",
       "price": "895 000 kr",
-      "image": "https://media.fastighetsbyran.se/50889601.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3575017",
+      "image": "https://media.fastighetsbyran.se/50166387.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3518767",
       "status": "Till salu"
     },
     {
-      "address": "Vädurgången 50 - Bulltofta koloniförening Bulltofta",
-      "area": "2 rum · 48 kvm",
-      "price": "945 000 kr",
-      "image": "https://media.fastighetsbyran.se/50874916.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593585",
+      "address": "Rödkullastigen 11A Almhög",
+      "area": "3 rum · 69.5 kvm",
+      "price": "995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50934968.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3592189",
       "status": "Till salu"
     },
     {
-      "address": "Jägersrovägen 15B Västra Kattarp",
-      "area": "3 rum · 74.5 kvm",
-      "price": "1 245 000 kr",
-      "image": "https://media.fastighetsbyran.se/48249831.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2296295",
-      "status": "Till salu"
-    },
-    {
-      "address": "Blåsebergavägen 29 Elinelund / Elinegård",
-      "area": "1 rum · 35 kvm",
-      "price": "1 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/50923716.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3573177",
-      "status": "Till salu"
-    },
-    {
-      "address": "Sölvesborgsgatan 10 Folkets Park",
-      "area": "2.5 rum · 61 kvm",
-      "price": "1 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50811428.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3259716",
-      "status": "Till salu"
-    },
-    {
-      "address": "Kostergränd 5A Västra Hamnen",
-      "area": "2 rum · 37 kvm",
-      "price": "1 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50923779.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3401289",
+      "address": "Dag Hammarskjölds torg 9 Malmö Live",
+      "area": "2 rum · 92.5 kvm",
+      "price": "7 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50933363.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=1628367",
       "status": "Till salu"
     }
   ],
@@ -68,20 +68,6 @@
       "price": "5 995 000 kr"
     },
     {
-      "address": "Serenadgatan 62 Högaholm",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3155762",
-      "image": "https://media.fastighetsbyran.se/44461468.jpg?Bredd=500",
-      "price": "1 495 000 kr"
-    },
-    {
-      "address": "Kronetorpsgatan 50B Segevång",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3586865",
-      "image": "https://media.fastighetsbyran.se/50771807.jpg?Bredd=500",
-      "price": "950 000 kr"
-    },
-    {
       "address": "Clematisgatan 8 Gamla Rosengård",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -89,10 +75,10 @@
       "price": "5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-26T13:04:58+00:00",
+  "updatedAt": "2026-10-26T20:29:47+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=4"
+    "listings": "ok; pages=4; properties=140; bids=2"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
