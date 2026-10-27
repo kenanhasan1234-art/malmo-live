@@ -1,19 +1,19 @@
 {
   "newListings": [
     {
-      "address": "Tullstorp Fortunavägen 50",
-      "area": "8 rum · 202 kvm",
-      "price": "",
-      "image": "https://media.fastighetsbyran.se/50744435.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3242529",
+      "address": "Nydala Kollegiegatan 7A",
+      "area": "3 rum · 75 kvm",
+      "price": "1 050 000 kr",
+      "image": "https://media.fastighetsbyran.se/50934305.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601055",
       "status": "Till salu"
     },
     {
-      "address": "Malmö Live Dag Hammarskjölds torg",
-      "area": "3 rum · 92.5 kvm",
-      "price": "9 7 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50938906.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601421",
+      "address": "Malmö Hyllie Boulevard 2G",
+      "area": "4 rum · 94 kvm",
+      "price": "3 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50831789.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3145731",
       "status": "Till salu"
     }
   ],
@@ -43,7 +43,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-27T09:01:08+00:00",
+  "updatedAt": "2026-10-27T15:22:00+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=141; bids=2"
