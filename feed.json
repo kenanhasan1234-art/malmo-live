@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Tullstorp Fortunavägen 50",
+      "area": "8 rum · 202 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/50744435.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3242529",
+      "status": "Till salu"
+    },
+    {
+      "address": "Malmö Live Dag Hammarskjölds torg",
+      "area": "3 rum · 92.5 kvm",
+      "price": "9 7 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/50938906.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601421",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -12,24 +29,24 @@
   ],
   "bids": [
     {
-      "address": "Irisgatan 14 Kulladal",
+      "address": "Kulladal Irisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3592846",
       "image": "https://media.fastighetsbyran.se/50913865.png?Bredd=500",
-      "price": "5 995 000 kr"
+      "price": "14 5 995 000 kr"
     },
     {
-      "address": "Clematisgatan 8 Gamla Rosengård",
+      "address": "Gamla Rosengård Clematisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
       "image": "https://media.fastighetsbyran.se/46138657.jpg?Bredd=500",
-      "price": "5 999 000 kr"
+      "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-27T00:26:31+00:00",
+  "updatedAt": "2026-10-27T09:01:08+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=2"
+    "listings": "ok; pages=4; properties=141; bids=2"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
