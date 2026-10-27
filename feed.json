@@ -1,19 +1,11 @@
 {
   "newListings": [
     {
-      "address": "Nydala Kollegiegatan 7A",
-      "area": "3 rum · 75 kvm",
-      "price": "1 050 000 kr",
-      "image": "https://media.fastighetsbyran.se/50934305.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601055",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Hyllie Boulevard 2G",
-      "area": "4 rum · 94 kvm",
-      "price": "3 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50831789.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3145731",
+      "address": "Kroksbäck Norrbäcksgatan",
+      "area": "2 rum · 64 kvm",
+      "price": "37 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50948529.webp?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598925",
       "status": "Till salu"
     }
   ],
@@ -29,13 +21,6 @@
   ],
   "bids": [
     {
-      "address": "Kulladal Irisgatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3592846",
-      "image": "https://media.fastighetsbyran.se/50913865.png?Bredd=500",
-      "price": "14 5 995 000 kr"
-    },
-    {
       "address": "Gamla Rosengård Clematisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -43,10 +28,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-27T15:22:00+00:00",
+  "updatedAt": "2026-10-27T22:15:04+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=2"
+    "listings": "ok; pages=4; properties=140; bids=1"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
