@@ -1,38 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Malmö N P Skölds väg",
-      "area": "6 rum · 4 kvm",
-      "price": "2 4 750 000 kr",
-      "image": "https://media.fastighetsbyran.se/50754780.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3574721",
-      "status": "Till salu"
-    },
-    {
-      "address": "Sorgenfri Kiviksgatan 6B",
-      "area": "2 rum · 52 kvm",
-      "price": "1 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50948603.webp?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3590547",
-      "status": "Till salu"
-    },
-    {
-      "address": "Varvsstaden Solhöjdsgatan",
-      "area": "1 rum · 34 kvm",
-      "price": "9 1 900 000 kr",
-      "image": "https://media.fastighetsbyran.se/50890336.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3591244",
-      "status": "Till salu"
-    },
-    {
-      "address": "Rörsjöstaden Föreningsgatan 54A",
-      "area": "3 rum · 81.5 kvm",
-      "price": "2 895 000 kr",
-      "image": "https://media.fastighetsbyran.se/50915238.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3594120",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -52,7 +19,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-28T12:56:24+00:00",
+  "updatedAt": "2026-10-28T20:16:27+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=1"
