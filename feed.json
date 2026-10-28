@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Kroksbäck Norrbäcksgatan",
-      "area": "2 rum · 64 kvm",
-      "price": "37 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50948529.webp?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598925",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -28,7 +19,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-27T22:15:04+00:00",
+  "updatedAt": "2026-10-28T05:44:10+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=1"
