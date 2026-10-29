@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Limhamn Östra Ansgarigatan 69A",
+      "area": "2 rum · 59 kvm",
+      "price": "1 695 000 kr",
+      "image": "https://media.fastighetsbyran.se/50922864.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3586401",
+      "status": "Till salu"
+    },
+    {
+      "address": "Bulltofta Ahrenbergsgatan",
+      "area": "3 rum · 69 kvm",
+      "price": "10 2 195 000 kr",
+      "image": "https://media.fastighetsbyran.se/50935724.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3596499",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -19,7 +36,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-28T20:16:27+00:00",
+  "updatedAt": "2026-10-29T00:58:15+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=1"
