@@ -1,30 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Hindby Camillavägen",
-      "area": "6 rum · 80 kvm",
-      "price": "26 5 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50874306.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2588436",
-      "status": "Till salu"
-    },
-    {
-      "address": "Djupadal Sorlabäcksgatan",
-      "area": "6 rum · 30 kvm",
-      "price": "43 8 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50714010.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3581730",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Balladgatan",
-      "area": "3 rum · 81.5 kvm",
-      "price": "41 1 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/50956715.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2227186",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -44,10 +19,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-29T18:29:03+00:00",
+  "updatedAt": "2026-10-30T01:00:30+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=1"
+    "listings": "ok; pages=4; properties=139; bids=1"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
