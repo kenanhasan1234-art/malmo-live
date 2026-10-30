@@ -1,54 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Kirseberg Carl Söderbergs Allé",
-      "area": "2 rum · 53 kvm",
-      "price": "1 1 845 000 kr",
-      "image": "https://media.fastighetsbyran.se/50903238.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3485433",
-      "status": "Till salu"
-    },
-    {
-      "address": "Nobeltorget Lantmannagatan 1",
-      "area": "2 rum · 69.5 kvm",
-      "price": "",
-      "image": "https://media.fastighetsbyran.se/50950484.webp?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3467761",
-      "status": "Till salu"
-    },
-    {
-      "address": "Lindeborg Sufflörgatan",
-      "area": "3 rum · 78.5 kvm",
-      "price": "3 1 595 000 kr",
-      "image": "https://media.fastighetsbyran.se/50945868.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601811",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Stora Varvsgatan",
-      "area": "5 rum · 180 kvm",
-      "price": "12 19 200 000 kr",
-      "image": "https://media.fastighetsbyran.se/48930655.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3447148",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Stora Varvsgatan",
-      "area": "5 rum · 123 kvm",
-      "price": "12 10 800 000 kr",
-      "image": "https://media.fastighetsbyran.se/48930646.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3447139",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Stora Varvsgatan",
-      "area": "5 rum · 145 kvm",
-      "price": "12 15 800 000 kr",
-      "image": "https://media.fastighetsbyran.se/48764368.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3447134",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -68,7 +19,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-30T18:00:30+00:00",
+  "updatedAt": "2026-10-30T22:21:32+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=139; bids=1"
