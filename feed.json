@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Söderkulla Tornfalksgatan",
+      "area": "2 rum · 60 kvm",
+      "price": "30 1 350 000 kr",
+      "image": "https://media.fastighetsbyran.se/50153190.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3528804",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -19,7 +28,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-10-31T05:43:23+00:00",
+  "updatedAt": "2026-10-31T12:32:05+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=139; bids=1"
