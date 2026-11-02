@@ -1,19 +1,35 @@
 {
   "newListings": [
     {
-      "address": "Möllevången Kristianstadsgatan 31 A",
-      "area": "3 rum · 81 kvm",
-      "price": "3 395 000 kr",
-      "image": "https://media.fastighetsbyran.se/50521786.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2960305",
+      "address": "Bunkeflostrand Vresrosgatan",
+      "area": "5 rum · 163 kvm",
+      "price": "4 9 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50995665.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3599642",
       "status": "Till salu"
     },
     {
-      "address": "Lindeborg Sufflörgatan",
-      "area": "3 rum · 78.5 kvm",
-      "price": "5 2 095 000 kr",
-      "image": "https://media.fastighetsbyran.se/50911030.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598176",
+      "address": "Ellstorp Sofierogatan 3A",
+      "area": "1 rum · 20.5 kvm",
+      "price": "750 000 kr",
+      "image": "https://media.fastighetsbyran.se/50957116.webp?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3587198",
+      "status": "Till salu"
+    },
+    {
+      "address": "Slottsstaden Regementsgatan",
+      "area": "3 rum · 80 kvm",
+      "price": "76 5 195 000 kr",
+      "image": "https://media.fastighetsbyran.se/48996394.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3335113",
+      "status": "Till salu"
+    },
+    {
+      "address": "Lönngården Lönngatan 36D",
+      "area": "2 rum · 48 kvm",
+      "price": "895 000 kr",
+      "image": "https://media.fastighetsbyran.se/50960672.webp?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3272804",
       "status": "Till salu"
     }
   ],
@@ -43,10 +59,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-02T11:09:17+00:00",
+  "updatedAt": "2026-11-02T21:42:56+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=138; bids=2"
+    "listings": "ok; pages=4; properties=139; bids=2"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
