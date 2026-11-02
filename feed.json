@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Möllevången Kristianstadsgatan 31 A",
+      "area": "3 rum · 81 kvm",
+      "price": "3 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/50521786.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2960305",
+      "status": "Till salu"
+    },
+    {
+      "address": "Lindeborg Sufflörgatan",
+      "area": "3 rum · 78.5 kvm",
+      "price": "5 2 095 000 kr",
+      "image": "https://media.fastighetsbyran.se/50911030.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598176",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -12,6 +29,13 @@
   ],
   "bids": [
     {
+      "address": "Östra Sorgenfri Nobelvägen 117G",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2294652",
+      "image": "https://media.fastighetsbyran.se/50812176.jpg?Bredd=500",
+      "price": "2 495 000 kr"
+    },
+    {
       "address": "Gamla Rosengård Clematisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -19,10 +43,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-02T00:45:39+00:00",
+  "updatedAt": "2026-11-02T11:09:17+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=138; bids=1"
+    "listings": "ok; pages=4; properties=138; bids=2"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
