@@ -1,38 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Bunkeflostrand Vresrosgatan",
-      "area": "5 rum · 163 kvm",
-      "price": "4 9 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/50995665.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3599642",
-      "status": "Till salu"
-    },
-    {
-      "address": "Ellstorp Sofierogatan 3A",
-      "area": "1 rum · 20.5 kvm",
-      "price": "750 000 kr",
-      "image": "https://media.fastighetsbyran.se/50957116.webp?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3587198",
-      "status": "Till salu"
-    },
-    {
-      "address": "Slottsstaden Regementsgatan",
-      "area": "3 rum · 80 kvm",
-      "price": "76 5 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/48996394.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3335113",
-      "status": "Till salu"
-    },
-    {
-      "address": "Lönngården Lönngatan 36D",
-      "area": "2 rum · 48 kvm",
-      "price": "895 000 kr",
-      "image": "https://media.fastighetsbyran.se/50960672.webp?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3272804",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -59,7 +26,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-02T21:42:56+00:00",
+  "updatedAt": "2026-11-03T06:48:43+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=139; bids=2"
