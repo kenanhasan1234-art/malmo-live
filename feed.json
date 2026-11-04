@@ -1,5 +1,54 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Nobeltorget Vitemöllegatan 16B",
+      "area": "2 rum · 52 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/50968606.webp?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3403590",
+      "status": "Till salu"
+    },
+    {
+      "address": "Dalaplan Värmlandsgatan 2",
+      "area": "4 rum · 105 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/50950439.webp?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3583547",
+      "status": "Till salu"
+    },
+    {
+      "address": "Rörsjöstaden Ehrensvärdsgatan",
+      "area": "1.5 rum · 29 kvm",
+      "price": "5 1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/48944079.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3455391",
+      "status": "Till salu"
+    },
+    {
+      "address": "Almhög Rödkullastigen 5 A",
+      "area": "3 rum · 69.5 kvm",
+      "price": "1 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/48960821.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3461451",
+      "status": "Budgivning pågår"
+    },
+    {
+      "address": "Ellstorp Idaborgsgatan 57 C",
+      "area": "1.5 rum · 35 kvm",
+      "price": "995 000 kr",
+      "image": "https://media.fastighetsbyran.se/49906273.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3176102",
+      "status": "Till salu"
+    },
+    {
+      "address": "Limhamn Villavägen",
+      "area": "3 rum · 91 kvm",
+      "price": "2 4 900 000 kr",
+      "image": "https://media.fastighetsbyran.se/47915987.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3370801",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -12,6 +61,20 @@
   ],
   "bids": [
     {
+      "address": "Almhög Rödkullastigen 5 A",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3461451",
+      "image": "https://media.fastighetsbyran.se/48960821.jpg?Bredd=500",
+      "price": "1 395 000 kr"
+    },
+    {
+      "address": "Södertorp Ingenjörsgatan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593917",
+      "image": "https://media.fastighetsbyran.se/50865261.jpg?Bredd=500",
+      "price": "4 2 600 000 kr"
+    },
+    {
       "address": "Gamla Rosengård Clematisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -19,10 +82,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-04T06:24:04+00:00",
+  "updatedAt": "2026-11-04T17:16:06+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=1"
+    "listings": "ok; pages=4; properties=138; bids=3"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
