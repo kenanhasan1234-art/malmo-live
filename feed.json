@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Kulladal Kulladalsgatan 24D",
-      "area": "3 rum · 80.5 kvm",
-      "price": "1 695 000 kr",
-      "image": "https://media.fastighetsbyran.se/51007449.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3603793",
-      "status": "Till salu"
-    },
-    {
-      "address": "Värnhem Nobelvägen 74A U2",
-      "area": "1.5 rum · 37 kvm",
-      "price": "2 1 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50995167.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3124677",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -57,7 +40,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-04T23:40:31+00:00",
+  "updatedAt": "2026-11-05T06:47:55+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=138; bids=4"
