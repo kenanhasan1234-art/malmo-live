@@ -1,5 +1,38 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Fågelbacken Eriksrogatan 1B",
+      "area": "1 rum · 29 kvm",
+      "price": "1 550 000 kr",
+      "image": "https://media.fastighetsbyran.se/50427596.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3078029",
+      "status": "Till salu"
+    },
+    {
+      "address": "Lindeborg Koristgatan",
+      "area": "1 rum · 29 kvm",
+      "price": "18 845 000 kr",
+      "image": "https://media.fastighetsbyran.se/51017523.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3542284",
+      "status": "Till salu"
+    },
+    {
+      "address": "Nydala Munkhättegatan 30 B",
+      "area": "1 rum · 21 kvm",
+      "price": "795 000 kr",
+      "image": "https://media.fastighetsbyran.se/51023333.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3604152",
+      "status": "Till salu"
+    },
+    {
+      "address": "Lönngården Lönngatan 48D",
+      "area": "1 rum · 38 kvm",
+      "price": "795 000 kr",
+      "image": "https://media.fastighetsbyran.se/51008176.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3589293",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -11,6 +44,13 @@
     }
   ],
   "bids": [
+    {
+      "address": "Södertorp Ingenjörsgatan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593917",
+      "image": "https://media.fastighetsbyran.se/50865261.jpg?Bredd=500",
+      "price": "4 2 600 000 kr"
+    },
     {
       "address": "Almhög Rödkullastigen 5 A",
       "status": "Budgivning pågår",
@@ -24,20 +64,6 @@
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3576035",
       "image": "https://media.fastighetsbyran.se/50785218.jpg?Bredd=500",
       "price": "1 395 000 kr"
-    },
-    {
-      "address": "Dockan Lovartsgatan 11A",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3527571",
-      "image": "https://media.fastighetsbyran.se/50160241.jpg?Bredd=500",
-      "price": "3 995 000 kr"
-    },
-    {
-      "address": "Södertorp Ingenjörsgatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593917",
-      "image": "https://media.fastighetsbyran.se/50865261.jpg?Bredd=500",
-      "price": "4 2 600 000 kr"
     },
     {
       "address": "Ulricedal Blåbärsgränd",
@@ -54,10 +80,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-06T06:48:37+00:00",
+  "updatedAt": "2026-11-06T16:46:21+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=6"
+    "listings": "ok; pages=4; properties=140; bids=5"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
