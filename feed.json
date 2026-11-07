@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Lugnet Kasinogatan",
-      "area": "3 rum · 91.5 kvm",
-      "price": "1 3 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/51007543.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3554382",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -56,7 +47,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-06T23:10:02+00:00",
+  "updatedAt": "2026-11-07T05:59:10+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=5"
