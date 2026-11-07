@@ -19,6 +19,13 @@
       "price": "4 2 600 000 kr"
     },
     {
+      "address": "Lindeborg Koristgatan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2688599",
+      "image": "https://media.fastighetsbyran.se/50223358.jpg?Bredd=500",
+      "price": "6 2 295 000 kr"
+    },
+    {
       "address": "Almhög Rödkullastigen 5 A",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3461451",
@@ -47,10 +54,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-07T13:03:08+00:00",
+  "updatedAt": "2026-11-07T19:26:17+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=5"
+    "listings": "ok; pages=4; properties=140; bids=6"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
