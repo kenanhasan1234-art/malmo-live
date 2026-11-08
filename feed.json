@@ -40,6 +40,13 @@
       "price": "1 395 000 kr"
     },
     {
+      "address": "Lindeborg Sufflörgatan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601811",
+      "image": "https://media.fastighetsbyran.se/50945868.jpg?Bredd=500",
+      "price": "3 1 595 000 kr"
+    },
+    {
       "address": "Ulricedal Blåbärsgränd",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3452546",
@@ -54,10 +61,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-08T10:24:00+00:00",
+  "updatedAt": "2026-11-08T17:56:09+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=6"
+    "listings": "ok; pages=4; properties=140; bids=7"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
