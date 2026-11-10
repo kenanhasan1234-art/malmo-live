@@ -1,83 +1,11 @@
 {
   "newListings": [
     {
-      "address": "Limhamn Östra Bernadottesgatan 37C",
-      "area": "2 rum · 52 kvm",
-      "price": "1 775 000 kr",
-      "image": "https://media.fastighetsbyran.se/51029082.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3408121",
-      "status": "Till salu"
-    },
-    {
-      "address": "Hyllie Trådgränd 11 a",
-      "area": "1 rum · 35 kvm",
-      "price": "1 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/50997101.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593667",
-      "status": "Till salu"
-    },
-    {
-      "address": "Södertorp Konsultgatan",
-      "area": "2 rum · 62 kvm",
-      "price": "9 1 250 000 kr",
-      "image": "https://media.fastighetsbyran.se/50981143.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3103144",
-      "status": "Till salu"
-    },
-    {
-      "address": "Midhem Saarisvägen 12A",
-      "area": "3 rum · 67.8 kvm",
-      "price": "1 750 000 kr",
-      "image": "https://media.fastighetsbyran.se/37504525.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2710701",
-      "status": "Till salu"
-    },
-    {
-      "address": "Kalkbrottet Skivsnäcksgränd",
-      "area": "2 rum · 45 kvm",
-      "price": "6 2 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/49873831.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3379161",
-      "status": "Till salu"
-    },
-    {
-      "address": "Almvik Axel Danielssons Väg",
-      "area": "3 rum · 80 kvm",
-      "price": "21 1 595 000 kr",
-      "image": "https://media.fastighetsbyran.se/51017551.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3178041",
-      "status": "Till salu"
-    },
-    {
-      "address": "Segevång Ögonblicksgatan",
-      "area": "3 rum · 30 kvm",
-      "price": "31 5 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/49579382.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2023556",
-      "status": "Till salu"
-    },
-    {
-      "address": "Nydala Eriksfältsgatan 59B",
-      "area": "2 rum · 61.5 kvm",
-      "price": "1 245 000 kr",
-      "image": "https://media.fastighetsbyran.se/50556666.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3464095",
-      "status": "Till salu"
-    },
-    {
-      "address": "Folkets Park Amiralsgatan",
-      "area": "2 rum · 50 kvm",
-      "price": "47 1 695 000 kr",
-      "image": "https://media.fastighetsbyran.se/32546378.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2433928",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Hyllie Allé 24 B",
-      "area": "2 rum · 55 kvm",
-      "price": "2 195 000 kr",
-      "image": "https://media.fastighetsbyran.se/50516397.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3555107",
+      "address": "Gyllins Trädgård Vimmerbyvägen",
+      "area": "3 rum · 82 kvm",
+      "price": "3 2 550 000 kr",
+      "image": "https://media.fastighetsbyran.se/51036575.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601409",
       "status": "Till salu"
     }
   ],
@@ -142,7 +70,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-09T19:49:52+00:00",
+  "updatedAt": "2026-11-10T03:34:59+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=7"
