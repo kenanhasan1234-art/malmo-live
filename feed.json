@@ -1,11 +1,27 @@
 {
   "newListings": [
     {
-      "address": "Gyllins Trädgård Vimmerbyvägen",
-      "area": "3 rum · 82 kvm",
-      "price": "3 2 550 000 kr",
-      "image": "https://media.fastighetsbyran.se/51036575.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601409",
+      "address": "Nobeltorget Lantmannagatan 3B",
+      "area": "2 rum · 50 kvm",
+      "price": "1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/51029062.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3597323",
+      "status": "Till salu"
+    },
+    {
+      "address": "Slottsstaden Köpenhamnsvägen 20B",
+      "area": "2 rum · 59.8 kvm",
+      "price": "2 195 000 kr",
+      "image": "https://media.fastighetsbyran.se/51028613.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3579783",
+      "status": "Till salu"
+    },
+    {
+      "address": "Blekingsborg Per Albin Hanssons väg 54 B",
+      "area": "2 rum · 54 kvm",
+      "price": "1 595 000 kr",
+      "image": "https://media.fastighetsbyran.se/51018462.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3586872",
       "status": "Till salu"
     }
   ],
@@ -70,10 +86,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-10T03:34:59+00:00",
+  "updatedAt": "2026-11-10T14:54:05+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=7"
+    "listings": "ok; pages=4; properties=139; bids=7"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
