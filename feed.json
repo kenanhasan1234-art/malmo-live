@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Oxie Oxie Bygata",
-      "area": "2 rum · 120 kvm",
-      "price": "14 2 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/50924842.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3600443",
-      "status": "Till salu"
-    },
-    {
-      "address": "Västra Hamnen Stormastgatan",
-      "area": "1.5 rum · 36 kvm",
-      "price": "22 1 895 000 kr",
-      "image": "https://media.fastighetsbyran.se/48100185.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3391661",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -64,6 +47,13 @@
       "price": "3 1 595 000 kr"
     },
     {
+      "address": "Djupadal Sorlabäcksgatan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3581730",
+      "image": "https://media.fastighetsbyran.se/50714010.jpg?Bredd=500",
+      "price": "43 8 495 000 kr"
+    },
+    {
       "address": "Gamla Rosengård Clematisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -71,10 +61,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-11T17:08:14+00:00",
+  "updatedAt": "2026-11-12T00:45:07+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=6"
+    "listings": "ok; pages=4; properties=139; bids=7"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
