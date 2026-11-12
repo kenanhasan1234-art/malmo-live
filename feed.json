@@ -1,19 +1,59 @@
 {
   "newListings": [
     {
-      "address": "Virentofta Björkbogatan 18B",
-      "area": "5 rum · 0 kvm",
-      "price": "5 595 000 kr",
-      "image": "https://media.fastighetsbyran.se/50771081.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3584229",
+      "address": "Dockan Lilla Varvsgatan 51A",
+      "area": "2 rum · 51 kvm",
+      "price": "2 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/51059135.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3094176",
       "status": "Till salu"
     },
     {
-      "address": "Kirseberg Norra Bulltoftavägen 12E",
-      "area": "5 rum · 126.5 kvm",
-      "price": "3 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/51037094.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=1894180",
+      "address": "Malmö Östra Farmvägen 38C",
+      "area": "2 rum · 60 kvm",
+      "price": "1 300 000 kr",
+      "image": "https://media.fastighetsbyran.se/49988685.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3506842",
+      "status": "Till salu"
+    },
+    {
+      "address": "Dockan Östra Varvsgatan 3BB",
+      "area": "2 rum · 51 kvm",
+      "price": "2 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/51059658.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3603762",
+      "status": "Till salu"
+    },
+    {
+      "address": "Husie Tomtegatan",
+      "area": "3 rum · 91.5 kvm",
+      "price": "5 1 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/51071712.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3175134",
+      "status": "Till salu"
+    },
+    {
+      "address": "Ribersborg Killian Zollsgatan 7 B",
+      "area": "1 rum · 31 kvm",
+      "price": "1 950 000 kr",
+      "image": "https://media.fastighetsbyran.se/51075875.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3597603",
+      "status": "Till salu"
+    },
+    {
+      "address": "Västra Hamnen Mastgränd",
+      "area": "3 rum · 71 kvm",
+      "price": "28 3 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/51073291.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2276573",
+      "status": "Till salu"
+    },
+    {
+      "address": "Lindeborg Johan Krulls gata",
+      "area": "5 rum · 128.5 kvm",
+      "price": "21 3 495 000 kr",
+      "image": "https://media.fastighetsbyran.se/51049248.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3476947",
       "status": "Till salu"
     }
   ],
@@ -29,13 +69,6 @@
   ],
   "bids": [
     {
-      "address": "Södertorp Ingenjörsgatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593917",
-      "image": "https://media.fastighetsbyran.se/50865261.jpg?Bredd=500",
-      "price": "4 2 600 000 kr"
-    },
-    {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2688599",
@@ -48,20 +81,6 @@
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3461451",
       "image": "https://media.fastighetsbyran.se/48960821.jpg?Bredd=500",
       "price": "1 395 000 kr"
-    },
-    {
-      "address": "Möllevången Kristianstadsgatan 31 A",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2960305",
-      "image": "https://media.fastighetsbyran.se/50521786.jpg?Bredd=500",
-      "price": "3 395 000 kr"
-    },
-    {
-      "address": "Lindeborg Sufflörgatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3601811",
-      "image": "https://media.fastighetsbyran.se/50945868.jpg?Bredd=500",
-      "price": "3 1 595 000 kr"
     },
     {
       "address": "Djupadal Sorlabäcksgatan",
@@ -78,10 +97,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-12T11:12:53+00:00",
+  "updatedAt": "2026-11-12T19:55:16+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=7"
+    "listings": "ok; pages=4; properties=140; bids=4"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
