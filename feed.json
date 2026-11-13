@@ -1,19 +1,51 @@
 {
   "newListings": [
     {
-      "address": "Rosengård/apelgården Widells väg",
-      "area": "2 rum · 61.5 kvm",
-      "price": "5 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/51059458.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2289853",
+      "address": "Oxie Oshögavägen",
+      "area": "2 rum · 64 kvm",
+      "price": "180 1 750 000 kr",
+      "image": "https://media.fastighetsbyran.se/51075834.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=1644362",
       "status": "Till salu"
     },
     {
-      "address": "Högaholm Serenadgatan",
-      "area": "3 rum · 82.5 kvm",
-      "price": "43 1 545 000 kr",
-      "image": "https://media.fastighetsbyran.se/51052300.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3591136",
+      "address": "Gyllins Trädgård Lönnebergagatan",
+      "area": "3 rum · 75 kvm",
+      "price": "31 2 395 000 kr",
+      "image": "https://media.fastighetsbyran.se/51085797.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3607205",
+      "status": "Till salu"
+    },
+    {
+      "address": "Elinelund / Elinegård Havrefältsgatan 2a",
+      "area": "1 rum · 34 kvm",
+      "price": "1 450 000 kr",
+      "image": "https://media.fastighetsbyran.se/51084414.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3596047",
+      "status": "Till salu"
+    },
+    {
+      "address": "Dalaplan Flensburgsgatan 5B",
+      "area": "1 rum · 38.9 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/48533897.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3406798",
+      "status": "Till salu"
+    },
+    {
+      "address": "Friluftstaden Sånekullavägen 40H",
+      "area": "3 rum · 77 kvm",
+      "price": "4 675 000 kr",
+      "image": "https://media.fastighetsbyran.se/50890225.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3593755",
+      "status": "Till salu"
+    },
+    {
+      "address": "Triangeln Solters plan 1 C",
+      "area": "1 rum · 30 kvm",
+      "price": "1 595 000 kr",
+      "image": "https://media.fastighetsbyran.se/51050887.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3605582",
       "status": "Till salu"
     }
   ],
@@ -29,6 +61,13 @@
   ],
   "bids": [
     {
+      "address": "Malmö N P Skölds väg",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3574721",
+      "image": "https://media.fastighetsbyran.se/50754851.jpg?Bredd=500",
+      "price": "2 4 750 000 kr"
+    },
+    {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2688599",
@@ -43,13 +82,6 @@
       "price": "1 395 000 kr"
     },
     {
-      "address": "Djupadal Sorlabäcksgatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3581730",
-      "image": "https://media.fastighetsbyran.se/50714010.jpg?Bredd=500",
-      "price": "43 8 495 000 kr"
-    },
-    {
       "address": "Gamla Rosengård Clematisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -57,7 +89,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-13T10:59:39+00:00",
+  "updatedAt": "2026-11-13T19:43:10+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=141; bids=4"
