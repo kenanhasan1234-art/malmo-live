@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Rosengård/apelgården Widells väg",
+      "area": "2 rum · 61.5 kvm",
+      "price": "5 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/51059458.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2289853",
+      "status": "Till salu"
+    },
+    {
+      "address": "Högaholm Serenadgatan",
+      "area": "3 rum · 82.5 kvm",
+      "price": "43 1 545 000 kr",
+      "image": "https://media.fastighetsbyran.se/51052300.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3591136",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -40,10 +57,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-13T01:50:35+00:00",
+  "updatedAt": "2026-11-13T10:59:39+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=4"
+    "listings": "ok; pages=4; properties=141; bids=4"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
