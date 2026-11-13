@@ -1,62 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Dockan Lilla Varvsgatan 51A",
-      "area": "2 rum · 51 kvm",
-      "price": "2 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/51059135.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3094176",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Östra Farmvägen 38C",
-      "area": "2 rum · 60 kvm",
-      "price": "1 300 000 kr",
-      "image": "https://media.fastighetsbyran.se/49988685.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3506842",
-      "status": "Till salu"
-    },
-    {
-      "address": "Dockan Östra Varvsgatan 3BB",
-      "area": "2 rum · 51 kvm",
-      "price": "2 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/51059658.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3603762",
-      "status": "Till salu"
-    },
-    {
-      "address": "Husie Tomtegatan",
-      "area": "3 rum · 91.5 kvm",
-      "price": "5 1 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/51071712.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3175134",
-      "status": "Till salu"
-    },
-    {
-      "address": "Ribersborg Killian Zollsgatan 7 B",
-      "area": "1 rum · 31 kvm",
-      "price": "1 950 000 kr",
-      "image": "https://media.fastighetsbyran.se/51075875.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3597603",
-      "status": "Till salu"
-    },
-    {
-      "address": "Västra Hamnen Mastgränd",
-      "area": "3 rum · 71 kvm",
-      "price": "28 3 395 000 kr",
-      "image": "https://media.fastighetsbyran.se/51073291.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2276573",
-      "status": "Till salu"
-    },
-    {
-      "address": "Lindeborg Johan Krulls gata",
-      "area": "5 rum · 128.5 kvm",
-      "price": "21 3 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/51049248.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3476947",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -97,7 +40,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-12T19:55:16+00:00",
+  "updatedAt": "2026-11-13T01:50:35+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=4"
