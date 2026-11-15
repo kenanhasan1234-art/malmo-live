@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Slottsstaden Fågelbacksgatan 34C",
+      "area": "1.5 rum · 39 kvm",
+      "price": "1 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/50085569.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3010135",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -40,7 +49,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-15T06:33:38+00:00",
+  "updatedAt": "2026-11-15T16:22:35+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=141; bids=4"
