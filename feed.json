@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Kulladal Kulladalsgatan 16C",
+      "area": "3 rum · 84 kvm",
+      "price": "2 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/51125296.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3555377",
+      "status": "Till salu"
+    },
+    {
+      "address": "Rosengård/apelgården Von lingens väg",
+      "area": "3 rum · 80 kvm",
+      "price": "41 1 045 000 kr",
+      "image": "https://media.fastighetsbyran.se/50518906.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3561114",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -11,13 +28,6 @@
     }
   ],
   "bids": [
-    {
-      "address": "Lugnet Kasinogatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3554382",
-      "image": "https://media.fastighetsbyran.se/51007543.jpg?Bredd=500",
-      "price": "1 3 295 000 kr"
-    },
     {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
@@ -47,10 +57,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-18T00:57:46+00:00",
+  "updatedAt": "2026-11-18T11:43:37+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=142; bids=5"
+    "listings": "ok; pages=4; properties=142; bids=4"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
