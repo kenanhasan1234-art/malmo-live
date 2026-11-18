@@ -1,19 +1,19 @@
 {
   "newListings": [
     {
-      "address": "Kulladal Kulladalsgatan 16C",
-      "area": "3 rum · 84 kvm",
-      "price": "2 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/51125296.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3555377",
+      "address": "Hyllie Mellersta Tennisgränd",
+      "area": "4 rum · 88 kvm",
+      "price": "9 3 595 000 kr",
+      "image": "https://media.fastighetsbyran.se/51104565.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3557066",
       "status": "Till salu"
     },
     {
-      "address": "Rosengård/apelgården Von lingens väg",
-      "area": "3 rum · 80 kvm",
-      "price": "41 1 045 000 kr",
-      "image": "https://media.fastighetsbyran.se/50518906.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3561114",
+      "address": "Kristineberg Kristinebergsvägen 5E",
+      "area": "5 rum · 121.2 kvm",
+      "price": "2 695 000 kr",
+      "image": "https://media.fastighetsbyran.se/51135170.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3302021",
       "status": "Till salu"
     }
   ],
@@ -57,7 +57,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-18T11:43:37+00:00",
+  "updatedAt": "2026-11-18T20:32:15+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=142; bids=4"
