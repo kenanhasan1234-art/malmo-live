@@ -12,6 +12,13 @@
   ],
   "bids": [
     {
+      "address": "Folkets Park Trelleborgsgatan 9A",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2556647",
+      "image": "https://media.fastighetsbyran.se/51018505.jpg?Bredd=500",
+      "price": "1 895 000 kr"
+    },
+    {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2688599",
@@ -40,10 +47,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-19T11:41:38+00:00",
+  "updatedAt": "2026-11-19T20:38:25+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=4"
+    "listings": "ok; pages=4; properties=141; bids=5"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
