@@ -1,11 +1,19 @@
 {
   "newListings": [
     {
-      "address": "Segevång Kronetorpsgatan 68A",
-      "area": "2 rum · 54.5 kvm",
-      "price": "1 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/51116540.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3577878",
+      "address": "City Mäster Nilsgatan",
+      "area": "2 rum · 55 kvm",
+      "price": "8 2 350 000 kr",
+      "image": "https://media.fastighetsbyran.se/51116155.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2958075",
+      "status": "Till salu"
+    },
+    {
+      "address": "Gamla Väster Skomakaregatan 10 A",
+      "area": "3 rum · 69 kvm",
+      "price": "4 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/50530751.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3557688",
       "status": "Till salu"
     }
   ],
@@ -56,10 +64,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-20T02:19:37+00:00",
+  "updatedAt": "2026-11-20T11:41:31+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=5"
+    "listings": "ok; pages=4; properties=140; bids=5"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
