@@ -1,5 +1,14 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Fosiedal Hyacintgatan",
+      "area": "2 rum · 61 kvm",
+      "price": "27 1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/51148353.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2835889",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -47,7 +56,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-20T20:22:30+00:00",
+  "updatedAt": "2026-11-21T02:16:05+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=141; bids=5"
