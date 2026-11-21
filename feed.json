@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Fosiedal Hyacintgatan",
-      "area": "2 rum · 61 kvm",
-      "price": "27 1 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/51148353.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2835889",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -20,13 +11,6 @@
     }
   ],
   "bids": [
-    {
-      "address": "Folkets Park Trelleborgsgatan 9A",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2556647",
-      "image": "https://media.fastighetsbyran.se/51018505.jpg?Bredd=500",
-      "price": "1 895 000 kr"
-    },
     {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
@@ -56,10 +40,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-21T02:16:05+00:00",
+  "updatedAt": "2026-11-21T11:03:11+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=5"
+    "listings": "ok; pages=4; properties=141; bids=4"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
