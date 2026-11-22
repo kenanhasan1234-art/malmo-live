@@ -19,13 +19,6 @@
       "price": "6 2 295 000 kr"
     },
     {
-      "address": "Almhög Rödkullastigen 5 A",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3461451",
-      "image": "https://media.fastighetsbyran.se/48960821.jpg?Bredd=500",
-      "price": "1 395 000 kr"
-    },
-    {
       "address": "Kroksbäck Norrbäcksgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598925",
@@ -40,10 +33,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-22T01:20:31+00:00",
+  "updatedAt": "2026-11-22T11:26:32+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=4"
+    "listings": "ok; pages=4; properties=141; bids=3"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
