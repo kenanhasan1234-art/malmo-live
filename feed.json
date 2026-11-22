@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Söderkulla Tornfalksgatan",
+      "area": "2 rum · 83.5 kvm",
+      "price": "18 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/51126867.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3611569",
+      "status": "Till salu"
+    },
+    {
+      "address": "Gyllins Trädgård Bullerbygatan",
+      "area": "4 rum · 91 kvm",
+      "price": "93 2 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/49609577.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2831015",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -12,11 +29,32 @@
   ],
   "bids": [
     {
+      "address": "Videdal Odonvidegatan 18b",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3558329",
+      "image": "https://media.fastighetsbyran.se/50981602.jpg?Bredd=500",
+      "price": "3 495 000 kr"
+    },
+    {
+      "address": "Rosengård/apelgården Von Lingens väg",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3575017",
+      "image": "https://media.fastighetsbyran.se/50889601.jpg?Bredd=500",
+      "price": "13 795 000 kr"
+    },
+    {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2688599",
       "image": "https://media.fastighetsbyran.se/50223358.jpg?Bredd=500",
       "price": "6 2 295 000 kr"
+    },
+    {
+      "address": "Högaholm Serenadgatan 33 Lgh",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598211",
+      "image": "https://media.fastighetsbyran.se/50989272.png?Bredd=500",
+      "price": "1003 1 745 000 kr"
     },
     {
       "address": "Kroksbäck Norrbäcksgatan",
@@ -33,10 +71,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-22T11:26:32+00:00",
+  "updatedAt": "2026-11-22T19:41:45+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=3"
+    "listings": "ok; pages=4; properties=141; bids=6"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
