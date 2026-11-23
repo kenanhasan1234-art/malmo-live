@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Söderkulla Tornfalksgatan",
-      "area": "2 rum · 83.5 kvm",
-      "price": "18 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/51126867.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3611569",
-      "status": "Till salu"
-    },
-    {
-      "address": "Gyllins Trädgård Bullerbygatan",
-      "area": "4 rum · 91 kvm",
-      "price": "93 2 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/49609577.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2831015",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -71,7 +54,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-22T19:41:45+00:00",
+  "updatedAt": "2026-11-23T01:44:44+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=141; bids=6"
