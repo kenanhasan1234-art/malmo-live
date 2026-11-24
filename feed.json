@@ -1,35 +1,11 @@
 {
   "newListings": [
     {
-      "address": "Högaholm Serenadgatan 30 Lgh",
-      "area": "1.5 rum · 48 kvm",
-      "price": "1703 595 000 kr",
-      "image": "https://media.fastighetsbyran.se/51156258.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3605887",
-      "status": "Till salu"
-    },
-    {
-      "address": "Oxie Stensåkervägen",
-      "area": "4 rum · 112 kvm",
-      "price": "214 2 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/50371543.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2118599",
-      "status": "Till salu"
-    },
-    {
       "address": "Högaholm Serenadgatan",
       "area": "3 rum · 72 kvm",
-      "price": "24 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/51156296.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3458030",
-      "status": "Till salu"
-    },
-    {
-      "address": "Östra Sorgenfri Nobelvägen 117G",
-      "area": "3 rum · 82 kvm",
-      "price": "2 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/47694420.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3055617",
+      "price": "22 1 295 000 kr",
+      "image": "https://media.fastighetsbyran.se/51153836.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3613126",
       "status": "Till salu"
     }
   ],
@@ -45,13 +21,6 @@
   ],
   "bids": [
     {
-      "address": "Söderkulla Tornfalksgatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3611569",
-      "image": "https://media.fastighetsbyran.se/51126867.jpg?Bredd=500",
-      "price": "18 995 000 kr"
-    },
-    {
       "address": "Gamla Rosengård Syréngatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598540",
@@ -59,10 +28,31 @@
       "price": "22 4 495 000 kr"
     },
     {
+      "address": "Nobeltorget Sofielundsvägen 48 D",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279561",
+      "image": "https://media.fastighetsbyran.se/50915243.jpg?Bredd=500",
+      "price": "1 495 000 kr"
+    },
+    {
+      "address": "Östra Sorgenfri Kiviksgatan 6 A",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2578191",
+      "image": "https://media.fastighetsbyran.se/50442633.jpg?Bredd=500",
+      "price": "1 595 000 kr"
+    },
+    {
       "address": "Videdal Odonvidegatan 18b",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3558329",
       "image": "https://media.fastighetsbyran.se/50981602.jpg?Bredd=500",
+      "price": "3 495 000 kr"
+    },
+    {
+      "address": "Slottsstaden Västra Stallmästaregatan 30 C",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2138170",
+      "image": "https://media.fastighetsbyran.se/46175309.jpg?Bredd=500",
       "price": "3 495 000 kr"
     },
     {
@@ -94,10 +84,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-23T12:44:08+00:00",
+  "updatedAt": "2026-11-24T02:13:01+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=7"
+    "listings": "ok; pages=4; properties=141; bids=9"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
