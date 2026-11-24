@@ -1,14 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Högaholm Serenadgatan",
-      "area": "3 rum · 72 kvm",
-      "price": "22 1 295 000 kr",
-      "image": "https://media.fastighetsbyran.se/51153836.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3613126",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -26,6 +17,13 @@
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598540",
       "image": "https://media.fastighetsbyran.se/50922418.jpg?Bredd=500",
       "price": "22 4 495 000 kr"
+    },
+    {
+      "address": "Limhamn Östra Bernadottesgatan 37C",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3408121",
+      "image": "https://media.fastighetsbyran.se/51029082.jpg?Bredd=500",
+      "price": "1 775 000 kr"
     },
     {
       "address": "Nobeltorget Sofielundsvägen 48 D",
@@ -70,13 +68,6 @@
       "price": "6 2 295 000 kr"
     },
     {
-      "address": "Högaholm Serenadgatan 33 Lgh",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3598211",
-      "image": "https://media.fastighetsbyran.se/50989272.png?Bredd=500",
-      "price": "1003 1 745 000 kr"
-    },
-    {
       "address": "Gamla Rosengård Clematisgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
@@ -84,10 +75,10 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-24T02:13:01+00:00",
+  "updatedAt": "2026-11-24T13:44:17+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=141; bids=9"
+    "listings": "ok; pages=4; properties=140; bids=9"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
