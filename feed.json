@@ -1,5 +1,38 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Östra Sorgenfri Torekovsgatan 20A",
+      "area": "2 rum · 46 kvm",
+      "price": "",
+      "image": "https://media.fastighetsbyran.se/51166406.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2855327",
+      "status": "Till salu"
+    },
+    {
+      "address": "Hyllie Sivs Gränd 1A",
+      "area": "2 rum · 39 kvm",
+      "price": "1 595 000 kr",
+      "image": "https://media.fastighetsbyran.se/51181403.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2806052",
+      "status": "Till salu"
+    },
+    {
+      "address": "Rosengård/apelgården Vougts väg",
+      "area": "2 rum · 67 kvm",
+      "price": "3 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/51174908.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3596456",
+      "status": "Till salu"
+    },
+    {
+      "address": "Malmö Live Dag Hammarskjölds torg",
+      "area": "2 rum · 58.5 kvm",
+      "price": "9 4 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/51178306.png?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3603547",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -11,6 +44,13 @@
     }
   ],
   "bids": [
+    {
+      "address": "Gamla Rosengård Clematisgatan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
+      "image": "https://media.fastighetsbyran.se/51182783.png?Bredd=500",
+      "price": "8 5 999 000 kr"
+    },
     {
       "address": "Limhamn Östra Bernadottesgatan 37C",
       "status": "Budgivning pågår",
@@ -47,24 +87,24 @@
       "price": "13 795 000 kr"
     },
     {
+      "address": "Östra Sorgenfri Spånehusvägen 56 B",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3402316",
+      "image": "https://media.fastighetsbyran.se/50763438.jpg?Bredd=500",
+      "price": "1 450 000 kr"
+    },
+    {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2688599",
       "image": "https://media.fastighetsbyran.se/50223358.jpg?Bredd=500",
       "price": "6 2 295 000 kr"
-    },
-    {
-      "address": "Gamla Rosengård Clematisgatan",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279985",
-      "image": "https://media.fastighetsbyran.se/46138657.jpg?Bredd=500",
-      "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-25T08:36:18+00:00",
+  "updatedAt": "2026-11-25T19:16:52+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=140; bids=7"
+    "listings": "ok; pages=4; properties=139; bids=8"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
