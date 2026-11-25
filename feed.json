@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Söderkulla Södra Gulsparvsgatan",
-      "area": "2 rum · 60 kvm",
-      "price": "36 1 150 000 kr",
-      "image": "https://media.fastighetsbyran.se/51177336.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3474801",
-      "status": "Till salu"
-    },
-    {
-      "address": "Slottsstaden Östra Kristinelundsvägen 16 B",
-      "area": "2 rum · 56 kvm",
-      "price": "2 895 000 kr",
-      "image": "https://media.fastighetsbyran.se/50866021.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3584329",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -78,7 +61,7 @@
       "price": "8 5 999 000 kr"
     }
   ],
-  "updatedAt": "2026-11-24T23:54:04+00:00",
+  "updatedAt": "2026-11-25T08:36:18+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
     "listings": "ok; pages=4; properties=140; bids=7"
