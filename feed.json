@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Triangeln Kapellplan",
+      "area": "1 rum · 40.6 kvm",
+      "price": "5 1 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/51135535.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3597875",
+      "status": "Till salu"
+    },
+    {
+      "address": "S:t Knut Spånehusvägen 43 C",
+      "area": "1 rum · 39 kvm",
+      "price": "1 595 000 kr",
+      "image": "https://media.fastighetsbyran.se/51085741.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3603897",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -61,10 +78,10 @@
       "price": "6 2 295 000 kr"
     }
   ],
-  "updatedAt": "2026-11-26T03:34:33+00:00",
+  "updatedAt": "2026-11-26T16:55:04+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=7"
+    "listings": "ok; pages=4; properties=138; bids=7"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
