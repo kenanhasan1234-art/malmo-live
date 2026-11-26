@@ -1,38 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Östra Sorgenfri Torekovsgatan 20A",
-      "area": "2 rum · 46 kvm",
-      "price": "",
-      "image": "https://media.fastighetsbyran.se/51166406.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2855327",
-      "status": "Till salu"
-    },
-    {
-      "address": "Hyllie Sivs Gränd 1A",
-      "area": "2 rum · 39 kvm",
-      "price": "1 595 000 kr",
-      "image": "https://media.fastighetsbyran.se/51181403.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2806052",
-      "status": "Till salu"
-    },
-    {
-      "address": "Rosengård/apelgården Vougts väg",
-      "area": "2 rum · 67 kvm",
-      "price": "3 795 000 kr",
-      "image": "https://media.fastighetsbyran.se/51174908.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3596456",
-      "status": "Till salu"
-    },
-    {
-      "address": "Malmö Live Dag Hammarskjölds torg",
-      "area": "2 rum · 58.5 kvm",
-      "price": "9 4 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/51178306.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3603547",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -57,13 +24,6 @@
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3408121",
       "image": "https://media.fastighetsbyran.se/51029082.jpg?Bredd=500",
       "price": "1 775 000 kr"
-    },
-    {
-      "address": "Nobeltorget Sofielundsvägen 48 D",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3279561",
-      "image": "https://media.fastighetsbyran.se/50915243.jpg?Bredd=500",
-      "price": "1 495 000 kr"
     },
     {
       "address": "Videdal Odonvidegatan 18b",
@@ -101,10 +61,10 @@
       "price": "6 2 295 000 kr"
     }
   ],
-  "updatedAt": "2026-11-25T19:16:52+00:00",
+  "updatedAt": "2026-11-26T03:34:33+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=139; bids=8"
+    "listings": "ok; pages=4; properties=139; bids=7"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
