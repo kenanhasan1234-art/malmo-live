@@ -1,5 +1,22 @@
 {
-  "newListings": [],
+  "newListings": [
+    {
+      "address": "Dockan Lägatan",
+      "area": "1 rum · 33 kvm",
+      "price": "21 1 795 000 kr",
+      "image": "https://media.fastighetsbyran.se/51166510.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3607347",
+      "status": "Till salu"
+    },
+    {
+      "address": "Möllevången Södervärnsgatan 3A",
+      "area": "2 rum · 64.5 kvm",
+      "price": "1 995 000 kr",
+      "image": "https://media.fastighetsbyran.se/51134490.jpg?Bredd=500",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2619878",
+      "status": "Till salu"
+    }
+  ],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -19,17 +36,17 @@
       "price": "8 5 999 000 kr"
     },
     {
+      "address": "Gyllins Trädgård Bullerbygatan",
+      "status": "Budgivning pågår",
+      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2831015",
+      "image": "https://media.fastighetsbyran.se/49609577.jpg?Bredd=500",
+      "price": "93 2 995 000 kr"
+    },
+    {
       "address": "Videdal Odonvidegatan 18b",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3558329",
       "image": "https://media.fastighetsbyran.se/50981602.jpg?Bredd=500",
-      "price": "3 495 000 kr"
-    },
-    {
-      "address": "Slottsstaden Västra Stallmästaregatan 30 C",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2138170",
-      "image": "https://media.fastighetsbyran.se/46175309.jpg?Bredd=500",
       "price": "3 495 000 kr"
     },
     {
@@ -47,10 +64,10 @@
       "price": "6 2 295 000 kr"
     }
   ],
-  "updatedAt": "2026-11-27T12:22:38+00:00",
+  "updatedAt": "2026-11-27T23:27:53+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=138; bids=5"
+    "listings": "ok; pages=4; properties=136; bids=5"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
