@@ -1,22 +1,5 @@
 {
-  "newListings": [
-    {
-      "address": "Röda Höja Höjagatan",
-      "area": "2 rum · 71 kvm",
-      "price": "22 1 495 000 kr",
-      "image": "https://media.fastighetsbyran.se/51187083.png?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2789480",
-      "status": "Till salu"
-    },
-    {
-      "address": "Västra Hamnen Signalgatan",
-      "area": "2.5 rum · 65 kvm",
-      "price": "15 2 995 000 kr",
-      "image": "https://media.fastighetsbyran.se/51179799.jpg?Bredd=500",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2854617",
-      "status": "Till salu"
-    }
-  ],
+  "newListings": [],
   "soldListings": [
     {
       "address": "Exempelgatan 1, Malmö",
@@ -57,13 +40,6 @@
       "price": "13 795 000 kr"
     },
     {
-      "address": "Östra Sorgenfri Spånehusvägen 56 B",
-      "status": "Budgivning pågår",
-      "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=3402316",
-      "image": "https://media.fastighetsbyran.se/50763438.jpg?Bredd=500",
-      "price": "1 450 000 kr"
-    },
-    {
       "address": "Lindeborg Koristgatan",
       "status": "Budgivning pågår",
       "url": "https://www.fastighetsbyran.com/sv/sverige/till-salu/skane-lan/malmo-stad/objekt/?objektID=2688599",
@@ -71,10 +47,10 @@
       "price": "6 2 295 000 kr"
     }
   ],
-  "updatedAt": "2026-11-27T01:44:27+00:00",
+  "updatedAt": "2026-11-27T12:22:38+00:00",
   "sourceStatus": {
     "sold": "manual (1 entries)",
-    "listings": "ok; pages=4; properties=138; bids=6"
+    "listings": "ok; pages=4; properties=138; bids=5"
   },
   "sources": {
     "listings": "https://www.fastighetsbyran.com/sv/sverige/till-salu?kon=382",
